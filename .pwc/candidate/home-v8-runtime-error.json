@@ -1,0 +1,19 @@
+{
+  "build": {
+    "js": "3d6991cfa2dabcf9e587b476caea162148ec2022281b612fa1adfca36c347c42",
+    "css": "77bac05a8a4cf6aa7c032ec342466999572b8894fa0155f90051bed4a7cd8c48"
+  },
+  "route": "/in",
+  "viewport": [
+    1440,
+    1000
+  ],
+  "errors": [
+    {
+      "message": "Uncaught ReferenceError: sustainabilityTips is not defined",
+      "stack": "ReferenceError: sustainabilityTips is not defined\n    at je (<anonymous>:9:152758)\n    at is (<anonymous>:8:49201)\n    at Jc (<anonymous>:8:71840)\n    at hl (<anonymous>:8:82735)\n    at Zd (<anonymous>:8:127877)\n    at Jd (<anonymous>:8:126960)\n    at qd (<anonymous>:8:126799)\n    at Fd (<anonymous>:8:123535)\n    at jf (<anonymous>:8:135811)\n    at MessagePort.C (<anonymous>:1:10648)"
+    }
+  ],
+  "root": "",
+  "classification": "Application runtime failure; excludes blank screenshot from visual scoring"
+}

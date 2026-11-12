@@ -1,0 +1,19 @@
+node_modules/
+dist/
+*.log
+
+# Local capture artifacts and duplicate media; reports and provenance stay tracked.
+.pwc/**/*.b64
+.pwc/**/*.html
+.pwc/**/*.png
+.pwc/**/*.jpg
+.pwc/**/*.jpeg
+.pwc/**/*.webp
+.pwc/**/*.gif
+.pwc/**/*.mp4
+.pwc/**/__pycache__/
+
+# Local credentials and environment overrides.
+.env
+.env.*
+!.env.example

@@ -1,0 +1,47 @@
+{
+  "path": "blank",
+  "results": [
+    {
+      "name": "menu opens and closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "search opens and accepts input",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "BILLY editorial carousel scrolls",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Best category filter changes product grid",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Best cart toggles",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "cookie consent dismisses banner",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "runtimeErrors": [],
+  "requested_route": "/in/penawaran/produk-terlaris",
+  "viewport": [
+    390,
+    844
+  ],
+  "build": "<!doctype html>\n<html lang=\"id\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <meta name=\"theme-color\" content=\"#0058a3\" />\n    <meta name=\"description\" content=\"IKEA Indonesia – inspirasi dan solusi untuk kehidupan sehari-hari di rumah.\" />\n    <title>IKEA Indonesia – Perabot rumah & inspirasi</title>\n    <script type=\"module\" crossorigin src=\"/assets/index-Br1Nkjou.js\"></script>\n    <link rel=\"stylesheet\" crossorigin href=\"/assets/index-DbCck_w-.css\">\n  </head>\n  <body><div id=\"root\"></div></body>\n</html>\n",
+  "hashes": {
+    "js": "7c62dbb0dfe3c38698b18b8670c32c665fd04b17f57f29ea1fb159d5dc070f29",
+    "css": "7d711d26fbe9d5fd4ffb8b46366146e42468b4fab929bb113cd01e863f96f6fc"
+  },
+  "provenance": "Frozen V11 dist, Cloudflare remote replay; route input substituted; local media mapped preserving authored src; local files separately audited"
+}

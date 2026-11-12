@@ -1,0 +1,10 @@
+{
+  "command": [
+    "pwc",
+    "fingerprints",
+    "src"
+  ],
+  "exit_code": 0,
+  "stdout": "{\n  \"ok\": true,\n  \"total\": 0,\n  \"by_pattern\": {},\n  \"files\": []\n}\n",
+  "stderr": ""
+}

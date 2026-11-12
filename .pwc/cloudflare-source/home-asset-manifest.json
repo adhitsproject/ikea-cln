@@ -1,0 +1,1869 @@
+{
+  "name": "home",
+  "styles": [
+    "/webroot/css/main.css?v=1793258014",
+    "/webroot/css/material-icons/material-icons.css?v=1793258014",
+    "/webroot/css/vendor/fontawesome-6.5.2/all.min.css?v=1793258014",
+    "/webroot/css/vendor/swiper-8.2.4/swiper-bundle.min.css?v=1793258014",
+    "/webroot/css/components/ikea-pictograms.css?v=1793258014",
+    "/webroot/css/components/ikea-icons.css?v=1793258014",
+    "/webroot/css/components/ikea-fundament-icons.css?v=1793258014",
+    "/webroot/css/components/ikea-fundament-icons-v2.css?v=1793258014",
+    "/webroot/css/components/buttons.css?v=1793258014",
+    "/webroot/css/components/loading.css?v=1793258014",
+    "/webroot/css/components/sidenav.css?v=1793258014",
+    "/webroot/css/components/modal.css?v=1793258014",
+    "/webroot/css/components/advices.css?v=1793258014",
+    "/webroot/css/components/prices.css?v=1793258014",
+    "/webroot/css/vendor/busyLoad/busyLoad.css?v=1793258014",
+    "/webroot/css/vendor/icheck/icheck_custom.css?v=1793258014",
+    "/webroot/css/vendor/side-drawer-modal-bootstrap/bootstrap-side-modals.css?v=1793258014",
+    "/webroot/css/vendor/cookieconsent.min.css?v=1793258014",
+    "/webroot/css/webview/webviewmodal.css?v=1793258014",
+    "/webroot/css/components/toastr.css?v=1793258014",
+    "/webroot/css/views/socialNetworks.css?v=1793258014",
+    "/webroot/css/layout/style-fix.css?v=1793258014",
+    "/webroot/css/components/shoppingCart-tooltip.css?v=1793258014",
+    "/webroot/css/components/template_item_counter.css?v=1793258014",
+    "/webroot/css/plugins/skapa-components/cards.css?v=1793258014",
+    "/webroot/css/plugins/skapa-components/block.css?v=1793258014",
+    "/webroot/css/polygons/polygons.css?v=1793258014",
+    "/webroot/css/components/listAllRange.css?v=1793258014",
+    "/webroot/css/vendor/slick/slick.css?v=1793258014",
+    "/webroot/css/vendor/slick/slick-theme-custom.css?v=1793258014",
+    "/webroot/css/vendor/slick/sliderMain.css?v=1793258014",
+    "/webroot/css/vendor/jqueryui/jquery-ui-custom.css?v=1793258014",
+    "/webroot/css/views/socialNetworks.css?v=1793258014",
+    "/webroot/css/components/search-algolia/searcher.css?v=1793258014",
+    "/webroot/css/views/homepage.css?v=1793258014",
+    "/webroot/css/views/flash_news.css?v=1793258014",
+    "/webroot/css/views/bestDealsBlock.css?v=1793258014",
+    "/webroot/css/views/newIdeasBlock.css?v=1793258014",
+    "/webroot/css/components/template_item_block.css?v=1793258014",
+    "/webroot/css/components/template_item_selector.css?v=1793258014",
+    "/webroot/css/components/template_item_versions.css?v=1793258014",
+    "/webroot/css/components/template_item_counter.css?v=1793258014",
+    "/webroot/css/components/itemInfo.css?v=1793258014",
+    "/webroot/css/components/productList.css?v=1793258014",
+    "/webroot/css/components/inspirationList.css?v=1793258014",
+    "/webroot/css/plugins/item-stickers/item-stickers.css?v=1793258014",
+    "https://assets.api.useinsider.com/css/info.min.css",
+    "/webroot/css/layout/headerMain.css?v=1793258014",
+    "/webroot/css/plugins/sidebar-main-menu.css?v=1793258014",
+    "/webroot/css/layout/footerMainLinks.css?v=1793258014",
+    "/webroot/css/layout/footerMainLegal.css?v=1793258014"
+  ],
+  "images": [
+    {
+      "src": "/webroot/img/logos/IKEA_logo.svg?v=1793258014",
+      "alt": "IKEA",
+      "class": [
+        "d-inline-block"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010324_range.png",
+      "alt": "Kamar tidur",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010347_range.png",
+      "alt": "Ruang keluarga",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010377_range.png",
+      "alt": "Dapur",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010528_range.png",
+      "alt": "Ruang makan",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010575_range.png",
+      "alt": "Ruang kerja",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010592_range.png",
+      "alt": "Kamar mandi",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010613_range.png",
+      "alt": "Dunia anak",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010628_range.png",
+      "alt": "Luar ruang",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010642_range.png",
+      "alt": "Laundry",
+      "width": "350"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/logos/IKEA_logo.svg",
+      "alt": "IKEA",
+      "width": "160",
+      "height": "65",
+      "class": [
+        "d-inline-block",
+        "align-center"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/logos/IKEA_logo.svg",
+      "alt": "IKEA",
+      "width": "160",
+      "height": "65",
+      "class": [
+        "d-inline-block"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1794209551334__1.gif",
+      "alt": "11.11 BILLY Flash Sale",
+      "class": [
+        "cmb-image"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791983218324__1.webp",
+      "alt": "L2 Luangkan Ruang 15 Oktober 2026 - 10 Januari 2027",
+      "class": [
+        "cmb-image"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793355967122__1.webp",
+      "alt": "Lets Play Campaign",
+      "class": [
+        "cmb-image"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1792581967513__1.webp",
+      "alt": "BESTA Offers 2026",
+      "class": [
+        "cmb-image"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1792577985951__1.webp",
+      "alt": "BILLY Offers 2026",
+      "class": [
+        "cmb-image"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793084000350__1.webp",
+      "alt": "Collection VINTERFINT STRALA 2026",
+      "class": [
+        "cmb-image"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1785926069574__1.webp",
+      "alt": "PAP Teaser",
+      "class": [
+        "cmb-image"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793593190210__1.webp",
+      "alt": "IDS L2",
+      "class": [
+        "cmb-image"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791168320354__0.webp",
+      "alt": "IFAM",
+      "class": [
+        "cmb-image"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1794325702878__1.gif",
+      "alt": "FLASH SALE 11.11",
+      "class": [
+        "halfbanner-img"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258656899__6.png?imwidth=160",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791277690599__1.webp?imwidth=160",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258656654__4.png?imwidth=160",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258656161__0.png?imwidth=160",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258657404__10.png?imwidth=160",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258656552__3.png?imwidth=160",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258657235__9.png?imwidth=160",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258657135__8.png?imwidth=160",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258656462__2.png?imwidth=160",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258656748__5.png?imwidth=160",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258656373__1.png?imwidth=160",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258657049__7.png?imwidth=160",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258657497__11.png?imwidth=160",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777259219390__0.png?imwidth=160",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1791429647854__1.gif",
+      "class": [
+        "img-fluid",
+        "polygonized"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/tag-filled.svg"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/668/1366882_PE957173_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/559/0955982_PE804391_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/773/1377351_PE960901_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1791429647981__3.gif",
+      "class": [
+        "img-fluid",
+        "polygonized"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/tag-filled.svg"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/773/1377351_PE960901_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/559/0955982_PE804391_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/668/1366882_PE957173_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791177057879__0.webp",
+      "alt": "EKTORP"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791177058281__1.webp",
+      "alt": "KALLAX"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791177058640__2.webp",
+      "alt": "TROTTEN"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791177059011__3.webp",
+      "alt": "BRIMNES"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791177059308__4.webp",
+      "alt": "TOBIAS"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791177059690__5.webp",
+      "alt": "MINNEN"
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793264241014__6.webp",
+      "alt": "Sembunyikan tanpa terlihat",
+      "class": [
+        "lazyload",
+        "cross-selling-card__image"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793264241135__7.webp",
+      "alt": "Maksimalkan bagian dalam",
+      "class": [
+        "lazyload",
+        "cross-selling-card__image"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793264241251__8.webp",
+      "alt": "Pilih solusi modular",
+      "class": [
+        "lazyload",
+        "cross-selling-card__image"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793264241357__9.webp",
+      "alt": "Temukan fungsi baru<br/>di setiap sudut",
+      "class": [
+        "lazyload",
+        "cross-selling-card__image"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793264241458__10.webp",
+      "alt": "Gunakan furniture multifungsi",
+      "class": [
+        "lazyload",
+        "cross-selling-card__image"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793264241571__11.webp",
+      "alt": "Tampilkan yang kamu suka",
+      "class": [
+        "lazyload",
+        "cross-selling-card__image"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1791864051190__1.gif",
+      "class": [
+        "img-fluid",
+        "polygonized"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/tag-filled.svg"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/530/1553079_PE1023495_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/462/1546258_PE1019897_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/312/1531221_PE1015569_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/067/1506767_PE1008992_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1791864051325__3.gif",
+      "class": [
+        "img-fluid",
+        "polygonized"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/tag-filled.svg"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/530/1553079_PE1023495_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/462/1546258_PE1019897_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/067/1506767_PE1008992_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1772618855139__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764669333053__2.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764669332964__1.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764669333130__3.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764669332828__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1792563700820__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791971838454__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1790830169897__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1792563701488__1.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1790828641149__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1788403772864__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1785999145711__0.jpeg",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1785387255334__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1785837933454__6.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1784543471142__0.jpeg",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1784860287086__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1779097866943__5.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1775665885575__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1775665885716__1.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1772618855139__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764669333053__2.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764669332964__1.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764669333130__3.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764669332828__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1792563700820__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791971838454__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1790830169897__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1792563701488__1.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1790828641149__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1788403772864__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1785999145711__0.jpeg",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1785387255334__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1785837933454__6.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1784543471142__0.jpeg",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1784860287086__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1779097866943__5.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1775665885575__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1775665885716__1.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1772618855139__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764669333053__2.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764669332964__1.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764669333130__3.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764669332828__0.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/152/1215203_PE911915_S4.jpg",
+      "alt": "SVÄRDFISK",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add SVÄRDFISK to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/112/0711230_PE728075_S4.jpg",
+      "alt": "FRAKTA",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add FRAKTA to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/092/1409204_PE972164_S4.jpg",
+      "alt": "FRAKTA",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add FRAKTA to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/015/1501575_PE1007369_S4.jpg",
+      "alt": "BOLMEN",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add BOLMEN to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/112/0711261_PE728099_S4.jpg",
+      "alt": "FRAKTA",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add FRAKTA to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/122/0712208_PE728639_S4.jpg",
+      "alt": "OFTAST",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add OFTAST to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/151/1215197_PE911911_S4.jpg",
+      "alt": "MÅNÖGA",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add MÅNÖGA to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/394/0439474_PE592081_S4.jpg",
+      "alt": "BRATTBY",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add BRATTBY to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/106/0710664_PE727695_S4.jpg",
+      "alt": "SPRUTTIG",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add SPRUTTIG to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/123/0712367_PE728786_S4.jpg",
+      "alt": "OFTAST",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add OFTAST to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/123/0712360_PE728779_S4.jpg",
+      "alt": "OFTAST",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add OFTAST to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/178/0417863_PE575616_S4.jpg",
+      "alt": "MEDELVÅG",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add MEDELVÅG to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/548/0654805_PE708843_S4.jpg",
+      "alt": "BÄSTIS",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add BÄSTIS to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/101/0710167_PE727369_S4.jpg",
+      "alt": "DJUNGELSKOG",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add DJUNGELSKOG to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/072/1407235_PE971444_S4.jpg",
+      "alt": "SVAMPIG",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add SVAMPIG to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/376/0637666_PE698477_S4.jpg",
+      "alt": "TOMAT",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add TOMAT to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaid/defaultImageLibrary/arrow-back-white-1736250945.png"
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaid/defaultImageLibrary/arrow-forward-white-1736250945.png"
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793876988682__1.webp",
+      "class": [
+        "card-img-top_dv",
+        "lazyload",
+        "img-fluid"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793355968648__5.webp",
+      "class": [
+        "card-img-top_dv",
+        "lazyload",
+        "img-fluid"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793355971908__17.webp",
+      "class": [
+        "card-img-top_dv",
+        "lazyload",
+        "img-fluid"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793355970941__13.webp",
+      "class": [
+        "card-img-top_dv",
+        "lazyload",
+        "img-fluid"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793355969864__9.webp",
+      "class": [
+        "card-img-top_dv",
+        "lazyload",
+        "img-fluid"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1785490526693__5.webp",
+      "class": [
+        "card-img-top_dv",
+        "lazyload",
+        "img-fluid"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1785518958738__29.webp",
+      "class": [
+        "card-img-top_dv",
+        "lazyload",
+        "img-fluid"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1768976907740__3.webp",
+      "class": [
+        "card-img-top_dv",
+        "lazyload",
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/commons/1727149636_00001593_S4.jpeg",
+      "alt": "PHILIPS",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add PHILIPS to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/commons/1727149636_00001593_S4.jpeg",
+      "alt": "PHILIPS",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add PHILIPS to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/commons/1727149719_00001595_S4.jpeg",
+      "alt": "PHILIPS",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add PHILIPS to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/134/1013471_PE829208_S4.jpg",
+      "alt": "KABOMBA",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add KABOMBA to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/693/1469349_PE996496_S4.jpg",
+      "alt": "GRÅFJÄLLET",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add GRÅFJÄLLET to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/475/1447548_PE989137_S4.jpg",
+      "alt": "STENMUS",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add STENMUS to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/815/1481576_PE1000558_S4.jpg",
+      "alt": "GILLERSBERG",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add GILLERSBERG to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/040/1404087_PE969922_S4.jpg",
+      "alt": "BJORLI",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add BJORLI to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/685/1468546_PE996183_S4.jpg",
+      "alt": "POKAL",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add POKAL to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/132/0713251_PE729361_S4.jpg",
+      "alt": "POKAL",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add POKAL to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/725/1172519_PE893862_S4.jpg",
+      "alt": "VARMFRONT",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add VARMFRONT to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/commons/1727149838_00001608_S4.jpeg",
+      "alt": "PHILIPS",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add PHILIPS to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/291/1129147_PE876751_S4.jpg",
+      "alt": "HORNVALLMO",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add HORNVALLMO to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/699/0869954_PE781547_S4.jpg",
+      "alt": "SILVERGLANS",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add SILVERGLANS to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/commons/1727149191_00001584_S4.jpeg",
+      "alt": "PHILIPS",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add PHILIPS to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/699/0869950_PE781544_S4.jpg",
+      "alt": "SILVERGLANS",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add SILVERGLANS to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/commons/1727149771_00001597_S4.jpeg",
+      "alt": "PHILIPS",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add PHILIPS to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/177/1517759_PE1012437_S4.jpg",
+      "alt": "MARIUS/SANDSBERG",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add MARIUS/SANDSBERG to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/231/0923162_PE788311_S4.jpg",
+      "alt": "HIMMELSÖ",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add HIMMELSÖ to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/513/1451325_PE990684_S4.jpg",
+      "alt": "PLUTTIG",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add PLUTTIG to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/788/1378867_PE961301_S4.jpg",
+      "alt": "OMMJÄNGE",
+      "class": [
+        "ins-image-area"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaiduat/defaultImageLibrary/Shopping%20Bag%20Add-1733488336.png",
+      "alt": "Add OMMJÄNGE to cart",
+      "class": [
+        "action-button-icon"
+      ]
+    },
+    {
+      "class": [
+        "ins-alt-tag-image"
+      ]
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaid/defaultImageLibrary/arrow-back-white-1736250945.png"
+    },
+    {
+      "src": "https://web-image.useinsider.com/ikeaid/defaultImageLibrary/arrow-forward-white-1736250945.png"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791962189479__0.webp",
+      "class": [
+        "img-fluid",
+        "polygonized"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/tag-filled.svg"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/330/1533080_PE1015860_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1720414006700_3_14.webp",
+      "alt": "Toko IKEA"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764564392202__0.webp",
+      "alt": "Makanan IKEA"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1720414006605_3_13.webp",
+      "alt": "IKEA Bisnis"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1759248709500__0.webp",
+      "alt": "IKEA Family"
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189543_4_11.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189658_4_12.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189813_4_13.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726680476155_0_1.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030190050_4_15.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189176_4_8.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189271_4_9.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189411_4_10.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189543_4_11.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189658_4_12.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189813_4_13.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726680476155_0_1.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030190050_4_15.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189176_4_8.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189271_4_9.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189411_4_10.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189543_4_11.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189658_4_12.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189813_4_13.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726680476155_0_1.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "data-src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030190050_4_15.webp",
+      "width": "100%",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1779816264498__7.webp",
+      "alt": "A close-up of plant ball, HUVUDROLL, with a blurred background showing a plate."
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1779816265794__9.webp",
+      "alt": "A chrome-plated DALSKÄR wash-basin mixer tap in the bathroom"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1779816264047__6.webp",
+      "alt": "A person is holding a smartphone,  a DIRIGERA hub for smart products, is in the background."
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1780899655306__0.webp",
+      "alt": "Pilihan bijak dukung produk buatan Indonesia"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1779816265224__8.webp",
+      "alt": "A woman tidies up her green chair wearing a light shirt and orange t-shirt with splashes of color on the shirt."
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1779816263571__5.webp",
+      "alt": "A close-up of plant ball, HUVUDROLL, with a blurred background showing a plate."
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/commons/home-footer-iphone.png",
+      "alt": "Mobile with App",
+      "width": "170"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/static_content/payment_partners/visaFooter.svg",
+      "alt": "Visa",
+      "class": [
+        "credit-card--img",
+        "img-fluid",
+        "paymentData"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/static_content/payment_partners/visaElectronFooter.svg",
+      "alt": "Visa electron",
+      "class": [
+        "credit-card--img",
+        "img-fluid",
+        "paymentData"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/static_content/payment_partners/masterCardFooter.svg",
+      "alt": "Master card",
+      "class": [
+        "credit-card--img",
+        "img-fluid",
+        "paymentData"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/static_content/payment_partners/maestroFooter.svg",
+      "alt": "Maestro",
+      "class": [
+        "credit-card--img",
+        "img-fluid",
+        "paymentData"
+      ]
+    },
+    {
+      "data-src": "/webroot/img/polygons/cross.svg",
+      "alt": "cross",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "src": "https://www.facebook.com/tr?id=368630343752849&ev=PageView&noscript=1",
+      "width": "1",
+      "height": "1"
+    },
+    {},
+    {
+      "alt": "search-custom-banner"
+    },
+    {
+      "src": "https://bat.bing.com/action/0?ti=97173127&tm=gtm002&Ver=2&mid=8f0b64b9-ddd1-4c7c-9926-41edf7395a06&bo=1&sid=0deb60a0ddb111f1ba8031a9f6fc6b01&vid=0df69350ddb111f18a9e6debe72da9a4&vids=1&msclkid=N&uach=pv%3D10.0.0&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=IKEA%20Indonesia%20-%20Jual%20Perabot%20Rumah%20%26%20Furnitur%20Kantor%20Online&p=https%3A%2F%2Fwww.ikea.co.id%2Fin&r=&lt=10180&evt=pageLoad&sv=2&cdb=AQAQ&rn=912092",
+      "width": "0",
+      "height": "0"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Ccircle cx='12' cy='12' r='12' fill='%23111111' fill-opacity='.12'/%3E%3Cpath d='M8.2 8.2l7.6 7.6M15.8 8.2l-7.6 7.6' stroke='%23111111' stroke-width='1.6' stroke-linecap='round'/%3E%3C/svg%3E",
+      "alt": "Close",
+      "class": [
+        "ins-close-icon"
+      ]
+    }
+  ],
+  "fonts": [],
+  "inline_style_count": 34
+}

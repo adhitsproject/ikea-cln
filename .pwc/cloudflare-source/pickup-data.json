@@ -1,0 +1,256 @@
+[
+  {
+    "city": "Tangerang",
+    "code": "tangerang",
+    "cards": [
+      {
+        "title": "Click & Collect - IKEA Alam Sutera",
+        "text": "Click & Collect Alam Sutera berada di dalam toko IKEA Alam Sutera. Jam Operasional Senin - Minggu 10.00 - 22.00 Hubungi Kami 021-29853900 Lihat lokasi di maps",
+        "links": [
+          {
+            "text": "Lihat lokasi di maps",
+            "href": "https://goo.gl/maps/ZMSqUCnXZoe6hsrQ8"
+          }
+        ]
+      },
+      {
+        "title": "IKEA Pick-up Point - Ruko Barcelona",
+        "text": "Jam Operasional Minggu – Kamis (Jumat dan Sabtu libur) 10:00 – 19:00 Hubungi Kami 021-29853900 Lihat lokasi di maps",
+        "links": [
+          {
+            "text": "Lihat lokasi di maps",
+            "href": "https://goo.gl/maps/gKKaF9CFoXbQGE5H8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Jakarta Barat",
+    "code": "jakbar",
+    "cards": [
+      {
+        "title": "Click & Collect - IKEA Mal Taman Anggrek",
+        "text": "Click & Collect Mal Taman Anggrek berada di lantai P1 Jam Operasional Senin - Minggu 10.00 - 22.00 Hubungi Kami 021-29853900 Lihat lokasi di maps",
+        "links": [
+          {
+            "text": "Lihat lokasi di maps",
+            "href": "https://goo.gl/maps/XLxGPhm4eTi6QhNb8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Jakarta Selatan",
+    "code": "jaksel",
+    "cards": [
+      {
+        "title": "IKEA Pick-up Point - Permata Hijau",
+        "text": "Jam Operasional Minggu – Kamis (Jumat dan Sabtu libur) 12:00 – 21:00 Hubungi Kami 021-29853900 Lihat lokasi di maps",
+        "links": [
+          {
+            "text": "Lihat lokasi di maps",
+            "href": "https://goo.gl/maps/kVscgYZQExeEcsQdA"
+          }
+        ]
+      },
+      {
+        "title": "IKEA Pick-up Point - Mitradiskon Lebak Bulus",
+        "text": "Jam Operasional Minggu – Kamis (Jumat dan Sabtu libur) 12:00 – 21:00 Hubungi Kami 021-29853900 Lihat lokasi di maps",
+        "links": [
+          {
+            "text": "Lihat lokasi di maps",
+            "href": "https://maps.app.goo.gl/zkrpKQKikso1x4GN8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Jakarta Timur",
+    "code": "jaktim",
+    "cards": [
+      {
+        "title": "Click & Collect - IKEA Jakarta Garden City",
+        "text": "Click & Collect Jakarta Garden City berada di dalam toko IKEA Jakarta Garden City - Area Layanan Pelanggan Lantai 1. Jam Operasional Senin – Jumat 12.00 - 21.00 Sabtu, Minggu & Libur nasional 10.00 - 22.00 Pesanan ke Pick-up Point JGC kini bisa diambil di hari yang sama untuk pembayaran yang dilakukan sebelum 19:00 WIB. Hubungi Kami 021-29853900 Lihat lokasi di maps",
+        "links": [
+          {
+            "text": "Lihat lokasi di maps",
+            "href": "https://goo.gl/maps/gno7MXjV49QUExKR6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Jakarta Utara",
+    "code": "jakut",
+    "cards": [
+      {
+        "title": "IKEA Pick-up Point - SPBU (Shell) Yos Sudarso",
+        "text": "Jam Operasional Minggu – Kamis (Jumat dan Sabtu libur) 12:00 – 21:00 Hubungi Kami 021-29853900 Lihat lokasi di maps",
+        "links": [
+          {
+            "text": "Lihat lokasi di maps",
+            "href": "https://maps.app.goo.gl/LRh7dFF74Zd9QFqC9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Bali",
+    "code": "bali",
+    "cards": [
+      {
+        "title": "Click & Collect - IKEA Bali",
+        "text": "Click & Collect Bali berada di dalam toko IKEA Bali. Jam Operasional Senin – Minggu 10.00 - 22.00 WITA Hubungi Kami 021-29853900 Lihat lokasi di maps",
+        "links": [
+          {
+            "text": "Lihat lokasi di maps",
+            "href": "https://maps.app.goo.gl/msywg9NeR6byfN8r7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Bogor",
+    "code": "bogor",
+    "cards": [
+      {
+        "title": "Click & Collect - IKEA Sentul City",
+        "text": "Click & Collect Sentul City berada di dalam toko IKEA Sentul City. Jam Operasional Senin - Minggu 10.00 - 21.00 Hubungi Kami 021-29853900 Lihat lokasi di maps",
+        "links": [
+          {
+            "text": "Lihat lokasi di maps",
+            "href": "https://goo.gl/maps/ekLxaVaRcbJME6ZV6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Bandung",
+    "code": "bandung",
+    "cards": [
+      {
+        "title": "Click & Collect - IKEA Kota Baru Parahyangan",
+        "text": "Click & Collect Kota Baru Parahyangan berada di dalam toko IKEA Kota Baru Parahyangan. Jam Operasional Senin – Jumat (bukan Libur nasional): 10.00 - 21.00 WIB Sabtu – Minggu & Libur nasional : 09.00 - 21.00 WIB Hubungi Kami 021-29853900 Lihat lokasi di maps",
+        "links": [
+          {
+            "text": "Lihat lokasi di maps",
+            "href": "https://goo.gl/maps/HFQyT4Y3kof2LcH47"
+          }
+        ]
+      },
+      {
+        "title": "IKEA Pick-up Point - Pasir Kaliki Bandung",
+        "text": "Jl. Pasir Kaliki No.17A, Kebon Jeruk, Andir, Kota Bandung, Jawa Barat 40181 Jam Operasional Senin - Minggu 10.00 - 19.00 Hubungi Kami 021-29853900 Lihat lokasi di maps",
+        "links": [
+          {
+            "text": "Lihat lokasi di maps",
+            "href": "https://maps.app.goo.gl/mpfMPBNk12g95oVi6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Solo",
+    "code": "solo",
+    "cards": [
+      {
+        "title": "IKEA Pick-up Point - The Park Solo",
+        "text": "Jam Operasional Senin - Minggu 10.00 - 19.00 Hubungi Kami 021-29853900 Lihat lokasi di maps",
+        "links": [
+          {
+            "text": "Lihat lokasi di maps",
+            "href": "https://goo.gl/maps/qpD3tKFgQRG2HBjT8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Semarang",
+    "code": "semarang",
+    "cards": [
+      {
+        "title": "IKEA Pick-up Point - CitraGrand Semarang",
+        "text": "Jam Operasional Senin - Minggu 10.00 - 19.00 Hubungi Kami 021-29853900 Lihat lokasi di maps",
+        "links": [
+          {
+            "text": "Lihat lokasi di maps",
+            "href": "https://goo.gl/maps/NdHQiXjDkZm9TjibA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Surabaya",
+    "code": "sby",
+    "cards": [
+      {
+        "title": "Click & Collect - IKEA Surabaya",
+        "text": "Click & Collect Surabaya berada di lantai LG Jam Operasional Senin - Minggu 10.00 - 22.00 Hubungi Kami 021-29853900 Lihat lokasi di maps",
+        "links": [
+          {
+            "text": "Lihat lokasi di maps",
+            "href": "https://goo.gl/maps/4nL9niu9mYFKnQFd9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Malang",
+    "code": "malang",
+    "cards": [
+      {
+        "title": "IKEA Pick-Up Point Malang",
+        "text": "Jam Operasional Senin - Minggu 10.30 - 19.30 Hubungi Kami 021-29853900 Lihat lokasi di maps",
+        "links": [
+          {
+            "text": "Lihat lokasi di maps",
+            "href": "https://goo.gl/maps/8M1gsq2XG6t674bW7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Yogyakarta",
+    "code": "yogyakarta",
+    "cards": [
+      {
+        "title": "IKEA Pick-Up Point Yogyakarta",
+        "text": "Jam Operasional Senin - Minggu 10.00 - 19.00 Hubungi Kami 021-29853900 Lihat lokasi di maps",
+        "links": [
+          {
+            "text": "Lihat lokasi di maps",
+            "href": "https://goo.gl/maps/g9n9QhUUa1eAmKqb8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Makassar",
+    "code": "makassar",
+    "cards": [
+      {
+        "title": "IKEA Pick-Up Point Makassar",
+        "text": "Jam Operasional Senin - Minggu 10.00 - 19.00 Hubungi Kami 021-29853900 Lihat lokasi di maps",
+        "links": [
+          {
+            "text": "Lihat lokasi di maps",
+            "href": "https://goo.gl/maps/27dtw4X2dFtpPzCz7"
+          }
+        ]
+      }
+    ]
+  }
+]

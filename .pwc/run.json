@@ -1,0 +1,504 @@
+{
+  "schema": 1,
+  "url": "https://www.ikea.co.id/in",
+  "source_id": "www.ikea.co.id-1794386247-0bd3d3",
+  "phase": "handoff",
+  "status": "failed_with_residuals",
+  "started_at": "2026-11-11T15:37:27+07:00",
+  "updated_at": "2026-11-12T15:33:56+07:00",
+  "breakpoints": [
+    1440,
+    390
+  ],
+  "planned_sections": [
+    "shared header/footer",
+    "home promo hero and campaigns",
+    "best-seller banner/editorial/filter/product grid",
+    "seven store cards and pickup point",
+    "six FAQ topic groups with question accordions",
+    "company vision/growth/key figures/sustainability"
+  ],
+  "completed_sections": [
+    "shared header/footer",
+    "home source order and first campaign media",
+    "best-seller source content and product cards",
+    "store grid and pickup selector",
+    "FAQ topics and exact captured Q/A",
+    "company page core sections"
+  ],
+  "requested_routes": [
+    "/in",
+    "/in/penawaran/produk-terlaris#all",
+    "/in/lokasi-kami",
+    "/in/layanan-pelanggan/faq",
+    "/in/tentang/perusahaan-ikea"
+  ],
+  "manual_reference_inventory": {
+    "homepage": [
+      "Turun harga",
+      "Our top picks",
+      "Solusi penyimpanan dan pengaturan",
+      "Terbaru di IKEA",
+      "Jelajahi koleksi kami",
+      "Penawaran terbaru di IKEA",
+      "Selamat datang di Himalaya",
+      "Jelajahi IKEA",
+      "Layanan IKEA",
+      "Tips dan ide untuk rumah yang lebih ramah lingkungan"
+    ],
+    "locations": [
+      "IKEA Alam Sutera",
+      "IKEA Sentul",
+      "IKEA Bali",
+      "IKEA Jakarta Garden City",
+      "IKEA Kota Baru Parahyangan",
+      "IKEA Mal Taman Anggrek",
+      "IKEA Surabaya",
+      "Pick-up Point"
+    ],
+    "faq_topics": [
+      "Pengembalian, Garansi & Keluhan",
+      "Pengiriman, Perakitan & Layanan",
+      "IKEA Family",
+      "Barang Hilang dan Tertinggal di Toko",
+      "Pembelian Online",
+      "Informasi Situs"
+    ],
+    "company": [
+      "Selamat datang di perusahaan kami",
+      "Visi dan ide bisnis",
+      "AREA PERTUMBUHAN",
+      "KEY FIGURES",
+      "MANUSIA & PLANET"
+    ]
+  },
+  "gate_results": {
+    "capture_integrity": {
+      "status": "fail",
+      "evidence": [
+        ".pwc/capture-error.txt",
+        ".pwc/native-host-recheck.json"
+      ],
+      "reason": "PWC native capture failed before browser launch; native host recheck still failed. Independent Cloudflare source snapshots and candidate replay are evidence, not a substitute for native PWC capture."
+    },
+    "critical_structure": {
+      "status": "fail",
+      "evidence": [
+        ".pwc/source-notes.md",
+        ".pwc/cloudflare-source/home.html",
+        ".pwc/cloudflare-source/best.html",
+        ".pwc/cloudflare-source/stores.html",
+        ".pwc/cloudflare-source/faq.html",
+        ".pwc/cloudflare-source/about.html"
+      ],
+      "reason": "All requested page structures were inspected from Cloudflare-rendered DOM/screenshots and implemented; PWC capture plan/anchor gate could not run."
+    },
+    "interactions": {
+      "status": "fail",
+      "evidence": [
+        ".pwc/interaction-probe.js",
+        ".pwc/candidate/home-v13-1440-interactions.json",
+        ".pwc/candidate/home-v13-390-interactions.json",
+        ".pwc/candidate/best-v13-1440-interactions.json",
+        ".pwc/candidate/best-v13-390-interactions.json",
+        ".pwc/candidate/v15-rendering-residual.json"
+      ],
+      "reason": "V13 remote replay passed applicable Home and Best checks. V15 changed Best carousel geometry; final replay could not complete because the first Browser Rendering call returned a non-JSON tool-call error, and a retry was cancelled after about five minutes without response. Native Playwright remains blocked, so current V15 behavior is unverified."
+    },
+    "build": {
+      "status": "pass",
+      "evidence": [
+        "npm run build",
+        "dist/index.html",
+        ".pwc/checks/runtime-preview.json"
+      ],
+      "reason": "V15 production build succeeded; preview port 4173 passed 29/29 route and media HEAD checks."
+    },
+    "fingerprints": {
+      "status": "pass",
+      "evidence": [
+        ".pwc/checks/fingerprints-src.json",
+        ".pwc/checks/fingerprints-dist.json"
+      ],
+      "reason": "Final V15 pwc fingerprints src and dist each reported zero fingerprints."
+    },
+    "weight": {
+      "status": "pass",
+      "evidence": [
+        ".pwc/checks/weight-dist.json"
+      ],
+      "reason": "Final V15 authored code 106.727 KB below 120 KB budget; original media are uncapped."
+    },
+    "visual": {
+      "status": "fail",
+      "evidence": [
+        ".pwc/cloudflare-source",
+        ".pwc/candidate/v11-capture-manifest.json",
+        ".pwc/candidate/*-v11-*-viewport.png",
+        ".pwc/candidate/menu-open-v13-1440-drawer.png",
+        ".pwc/candidate/v15-rendering-residual.json"
+      ],
+      "reason": "Final Best V15 screenshot could not be scored: first Browser Rendering call returned a non-JSON tool-call error, and a retry was cancelled after about five minutes without response. Last measured V11/V10 viewport scores remain below .97; source About mobile overflows1080px."
+    },
+    "assets": {
+      "status": "pass",
+      "evidence": [
+        ".pwc/checks/runtime-preview.json",
+        ".pwc/asset-cache/manifest.json",
+        ".pwc/asset-cache/video-manifest.json",
+        ".pwc/asset-cache/best-product-downloads.json"
+      ],
+      "reason": "All authored critical original media are localized; final production preview HEAD audit passed 29/29 including seven videos, fifteen Best product images and two fonts."
+    }
+  },
+  "attempts": [
+    {
+      "checkpoint": "v4",
+      "date": "2026-11-11",
+      "scope": "Initial valid remote-render baseline; full source and candidate captures at 1440px and 390px. Earlier v1-v3 render harness checkpoints are excluded because candidate media/CSS were not loaded correctly.",
+      "evidence": [
+        ".pwc/candidate/home-v4-1440.png",
+        ".pwc/cloudflare-source"
+      ]
+    },
+    {
+      "checkpoint": "v5",
+      "date": "2026-11-11",
+      "scope": "First measured repair for all desktop states and Home mobile.",
+      "score_method": "pwc score, first viewport, no masks",
+      "desktop_scores": {
+        "home": 0.8955,
+        "best": 0.4691,
+        "stores": 0.4001,
+        "faq": 0.6636,
+        "about": 0.5703
+      },
+      "mobile_scores": {
+        "home": 0.7909
+      },
+      "evidence": [
+        ".pwc/candidate"
+      ]
+    },
+    {
+      "checkpoint": "v7",
+      "date": "2026-11-11",
+      "scope": "Second desktop and Home-mobile repair; first scored mobile states for Best, Stores, FAQ and About.",
+      "score_method": "pwc score, first viewport, no masks",
+      "desktop_scores": {
+        "home": 0.8834,
+        "best": 0.6271,
+        "stores": 0.7327,
+        "faq": 0.6827,
+        "about": 0.7171
+      },
+      "mobile_scores": {
+        "home": 0.8075,
+        "best": 0.3095,
+        "stores": 0.5,
+        "faq": 0.5424,
+        "about": 0.367
+      },
+      "evidence": [
+        ".pwc/candidate/v7-capture-manifest.json"
+      ]
+    },
+    {
+      "checkpoint": "v8",
+      "date": "2026-11-12",
+      "scope": "Third measured desktop repair for Best, Stores, FAQ and About. Home runtime failed from undefined sustainabilityTips; no Home visual score or mobile V8 captures.",
+      "score_method": "pwc score, first viewport, no masks",
+      "desktop_scores": {
+        "best": 0.674,
+        "stores": 0.8556,
+        "faq": 0.7114,
+        "about": 0.6963
+      },
+      "evidence": [
+        ".pwc/candidate/home-v8-1440.html",
+        ".pwc/candidate"
+      ]
+    },
+    {
+      "checkpoint": "v9",
+      "date": "2026-11-12",
+      "reference": "Cloudflare Browser Rendering source snapshots from 2026-11-11",
+      "candidate_manifest": ".pwc/candidate/v9-capture-manifest.json",
+      "score_method": "pwc score, first viewport, no masks",
+      "desktop_scores": {
+        "home": 0.88981795,
+        "best": 0.6707075,
+        "stores": 0.8601823,
+        "faq": 0.7401242,
+        "about": 0.68454634
+      },
+      "mobile_scores": {
+        "home": 0.78705318,
+        "best": 0.33963495,
+        "stores": 0.40810681,
+        "faq": 0.58148132,
+        "about": 0.30860914
+      },
+      "notes": "Fourth measured desktop repair for Best, Stores, FAQ and About; third for Home desktop; third for Home mobile; first for Best/Stores/FAQ/About mobile. V9 About desktop overflowed to 1564px and was repaired in pending V10. V9 mobile search failed; Home product selector assertions were stale; V10 repair and replay pending. The source About mobile page itself overflows 1080px."
+    },
+    {
+      "checkpoint": "v10",
+      "date": "2026-11-12",
+      "scope": "Final candidate frozen as JS SHA256 D2768A5771610C6D16F107DF9268A4F55934399ACD394AE83ECF91490E3AC79B and CSS SHA256 4C06C378C30DF3749A802E23312498F4FFF02B0D6CF773D390C9946B26289FC7. Remote visual capture and interaction replay running.",
+      "score_method": "pwc score, first viewport, no masks",
+      "desktop_scores": {
+        "home": 0.88991259,
+        "best": 0.672242,
+        "stores": 0.860182,
+        "faq": 0.740124,
+        "about": 0.769215
+      },
+      "mobile_scores": {
+        "home": 0.767907,
+        "best": 0.428548,
+        "stores": 0.63759139,
+        "faq": 0.64580368,
+        "about": 0.30699584
+      },
+      "notes": "V10 Cloudflare replay passed all applicable controls except BILLY desktop arrows: rail did not overflow and so did not scroll. V11 behavior repair is a new interaction-state attempt; default Best desktop visual repair budget is exhausted. Scoped V11 Home and mobile header repair uses remaining state budget.",
+      "evidence": [
+        ".pwc/candidate",
+        ".pwc/checks"
+      ]
+    },
+    {
+      "checkpoint": "v11",
+      "date": "2026-11-12",
+      "scope": "Fifth measured Home desktop repair; fourth Home mobile repair; mobile shared header search correction; distinct BILLY carousel behavior repair after V10 interaction failure. Other desktop default states unchanged.",
+      "score_method": "pwc score, first viewport, no masks",
+      "bundle_sha256": {
+        "js": "7C62DBB0DFE3C38698B18B8670C32C665FD04B17F57F29EA1FB159D5DC070F29",
+        "css": "7D711D26FBE9D5FD4FFB8B46366146E42468B4FAB929BB113CD01E863F96F6FC"
+      },
+      "desktop_scores": {
+        "home": 0.88988126,
+        "best": 0.70951723
+      },
+      "mobile_scores": {
+        "home": 0.89029851,
+        "best": 0.55909462,
+        "stores": 0.75912264,
+        "faq": 0.76817391,
+        "about": 0.42939867
+      },
+      "notes": "All seven affected first-viewport scores measured with no masks. V11 carousel desktop replay passed 6/6; remaining mobile and direct-fragment replay pending.",
+      "evidence": [
+        ".pwc/candidate/v11-capture-manifest.json",
+        ".pwc/candidate/*-v11-*-viewport.png",
+        ".pwc/candidate/best-v11-1440-interactions.json"
+      ]
+    },
+    {
+      "checkpoint": "v12",
+      "date": "2026-11-12",
+      "scope": "Scoped open-drawer visual/interaction-state repair only; closed default pages unchanged. The source menu opens as a 480px left drawer.",
+      "bundle_sha256": {
+        "js": "7C62DBB0DFE3C38698B18B8670C32C665FD04B17F57F29EA1FB159D5DC070F29",
+        "css": "8EE33EB513E7A73A10999021B73E6E578B93E7CC2C70BA7B3223DA9760E3CCA6"
+      },
+      "notes": "Scoped V12 CSS is included in V13 screenshot; open-drawer score improved from .7795 to .8309, still below .97.",
+      "evidence": [
+        ".pwc/candidate/menu-source-1440-drawer.png",
+        ".pwc/candidate/menu-open-v10-1440-drawer.png",
+        ".pwc/candidate/menu-open-v13-1440-drawer.png"
+      ],
+      "drawer_score": {
+        "method": "pwc score, 480x1000 left-drawer crop, no masks",
+        "source_vs_v10": 0.7794741413,
+        "source_vs_v13": 0.8308681185
+      }
+    },
+    {
+      "checkpoint": "v13",
+      "date": "2026-11-12",
+      "scope": "Requested Best #all direct-entry navigation behavior repair only: remove matching id from product grid and target the catalog using #best-catalog on banner click. No visual CSS change.",
+      "bundle_sha256": {
+        "js": "FD648E6FF6BB5CA8B2296E61FE652811F23D261AF7849FF691790FD771CF409A",
+        "css": "8EE33EB513E7A73A10999021B73E6E578B93E7CC2C70BA7B3223DA9760E3CCA6"
+      },
+      "notes": "Cloudflare targeted Best desktop/mobile direct #all fragment and BILLY carousel replay passed 7/7; Home desktop/mobile core controls passed 8/8 applicable. Open-drawer V12 CSS scored .8309 in V13 bundle.",
+      "evidence": [
+        ".pwc/cloudflare-source/best.html",
+        ".pwc/interaction-probe.js",
+        ".pwc/checks"
+      ]
+    },
+    {
+      "checkpoint": "v14",
+      "date": "2026-11-12",
+      "scope": "Final Best editorial critical original-asset restoration: remove inherited height/max-height cropping from composite panel; source desktop panel 943.84x558.78, mobile first slide 221px and 14px gap. No other-page changes.",
+      "bundle_sha256": {
+        "js": "FD648E6FF6BB5CA8B2296E61FE652811F23D261AF7849FF691790FD771CF409A",
+        "css": "B499E25DF749CC3FD3564AF8C9A0EBA2B4D313671C07B68874FDE51B8C45B56C"
+      },
+      "desktop_scores": {},
+      "mobile_scores": {},
+      "notes": "Superseded before remote capture: mobile 221px measured only the left scene of a wider original composite. Source CSS proves whole slide calc(135% - 16px) with 16px gap; V15 corrects it. V14 should not be counted as a scored visual repair.",
+      "evidence": [
+        ".pwc/cloudflare-source/best-layout-1440.json",
+        ".pwc/candidate",
+        ".pwc/checks"
+      ]
+    },
+    {
+      "checkpoint": "v15",
+      "date": "2026-11-12",
+      "scope": "Final source-evidenced Best editorial complete-composite restoration; desktop slide calc(80% - 36px), gap36; mobile slide calc(135% - 16px), gap16; source image natural height uncapped. Replaces unscored V14 sizing.",
+      "bundle_sha256": {
+        "js": "FD648E6FF6BB5CA8B2296E61FE652811F23D261AF7849FF691790FD771CF409A",
+        "css": "7CDE9E2BB1E5A4CA7AEE026086559BA8389136F3634A33E6BD950238D0C5C628"
+      },
+      "desktop_scores": {},
+      "mobile_scores": {},
+      "notes": "Production build and standalone audits passed. Initial Browser Rendering call returned non-JSON tool-call error; a retry was cancelled after about five minutes with no response. No V15 screenshot or arrow replay was obtained. Last measured Best visual state is V11; V13 Best behavior replay passed before V15 geometry edit.",
+      "evidence": [
+        ".pwc/cloudflare-source/best-mobile.html",
+        ".pwc/cloudflare-source/best-layout-1440.json",
+        ".pwc/candidate",
+        ".pwc/checks",
+        ".pwc/candidate/v15-rendering-residual.json"
+      ]
+    }
+  ],
+  "residuals": [
+    {
+      "gate": "capture_integrity",
+      "target": "PWC capture of five routes",
+      "expected": "PWC capture_integrity.status == passed",
+      "measured": "failed before browser launch: PermissionError(13, Access is denied) while creating Windows async subprocess pipe via asyncio.windows_utils.pipe/CreateFile",
+      "attempts": 1,
+      "evidence": [
+        ".pwc/capture-error.txt",
+        ".pwc/native-host-recheck.json"
+      ],
+      "reason": "Host blocks Playwright subprocess pipe creation."
+    },
+    {
+      "gate": "interactions",
+      "target": "five requested routes",
+      "expected": "All discovered source interactions replay successfully",
+      "measured": "V13 Home desktop/mobile 8/8 applicable and Best desktop/mobile 7/7 remote checks passed. V15 Best carousel geometry changed afterward; the first final Browser Rendering call failed parsing and a retry was cancelled after about five minutes without response, so V15 replay is unverified.",
+      "attempts": 5,
+      "evidence": [
+        ".pwc/interaction-probe.js",
+        ".pwc/candidate/home-v13-1440-interactions.json",
+        ".pwc/candidate/home-v13-390-interactions.json",
+        ".pwc/candidate/best-v13-1440-interactions.json",
+        ".pwc/candidate/best-v13-390-interactions.json",
+        ".pwc/candidate/v15-rendering-residual.json"
+      ],
+      "reason": "Native Playwright remains blocked; the final remote Browser Rendering call errored and retry was cancelled after no response. Authored frontend controls do not cover IKEA backend account/catalog/checkout."
+    },
+    {
+      "gate": "visual",
+      "target": "five requested routes at 1440px and 390px",
+      "expected": "Source/candidate screenshot scores and repaired deltas",
+      "measured": "Last measured first-viewport candidate: V11 Home desktop .8899/mobile .8903, Best desktop .7095/mobile .5591, Stores mobile .7591, FAQ mobile .7682, About mobile .4294; unchanged V10 desktop Stores .8602, FAQ .7401, About .7692. V15 Best screenshot was not obtained due to provider error/time-out.",
+      "attempts": 5,
+      "evidence": [
+        ".pwc/candidate/v11-capture-manifest.json",
+        ".pwc/candidate/v10-capture-manifest.json",
+        ".pwc/candidate/menu-open-v13-1440-drawer.png",
+        ".pwc/candidate/v15-rendering-residual.json"
+      ],
+      "reason": "All last measured states remain below .97. Final V15 Best screenshot was unavailable after non-JSON tool-call error and cancelled unresponsive retry. Source About mobile itself overflows1080px."
+    },
+    {
+      "gate": "critical_structure",
+      "target": "Five requested routes and required captured anchors",
+      "expected": "Native PWC plan/assembly and required-anchor verification on captured source",
+      "measured": "Manual source section map and Cloudflare-rendered HTML/screenshots cover the five route structures, but native PWC plan/assembly/required-anchor gate could not run because capture failed before browser launch.",
+      "attempts": 1,
+      "evidence": [
+        ".pwc/manual-section-map.json",
+        ".pwc/capture-error.txt",
+        ".pwc/native-host-recheck.json"
+      ],
+      "reason": "Native extractor failed at Windows async subprocess pipe creation; a later host recheck remained unavailable. Manual mapping does not satisfy this native gate."
+    }
+  ],
+  "source_evidence": {
+    "/in": {
+      "html": ".pwc/cloudflare-source/home.html",
+      "desktop_screenshot": ".pwc/cloudflare-source/home-1440.png",
+      "mobile_html": ".pwc/cloudflare-source/home-mobile.html",
+      "mobile_screenshot": ".pwc/cloudflare-source/home-390.png"
+    },
+    "/in/penawaran/produk-terlaris#all": {
+      "html": ".pwc/cloudflare-source/best.html",
+      "desktop_screenshot": ".pwc/cloudflare-source/best-1440.png",
+      "mobile_html": ".pwc/cloudflare-source/best-mobile.html",
+      "mobile_screenshot": ".pwc/cloudflare-source/best-390.png"
+    },
+    "/in/lokasi-kami": {
+      "html": ".pwc/cloudflare-source/stores.html",
+      "desktop_screenshot": ".pwc/cloudflare-source/stores-1440.png",
+      "mobile_html": ".pwc/cloudflare-source/stores-mobile.html",
+      "mobile_screenshot": ".pwc/cloudflare-source/stores-390.png"
+    },
+    "/in/layanan-pelanggan/faq": {
+      "html": ".pwc/cloudflare-source/faq.html",
+      "desktop_screenshot": ".pwc/cloudflare-source/faq-1440.png",
+      "mobile_html": ".pwc/cloudflare-source/faq-mobile.html",
+      "mobile_screenshot": ".pwc/cloudflare-source/faq-390.png"
+    },
+    "/in/tentang/perusahaan-ikea": {
+      "html": ".pwc/cloudflare-source/about.html",
+      "desktop_screenshot": ".pwc/cloudflare-source/about-1440.png",
+      "mobile_html": ".pwc/cloudflare-source/about-mobile.html",
+      "mobile_screenshot": ".pwc/cloudflare-source/about-390.png"
+    }
+  },
+  "best_measured_scores": {
+    "method": "pwc score on 1440x1000 or 390x844 viewport crops, no masks",
+    "desktop": {
+      "home": {
+        "checkpoint": "v5",
+        "score": 0.8955
+      },
+      "best": {
+        "checkpoint": "v11",
+        "score": 0.70951723
+      },
+      "stores": {
+        "checkpoint": "v10",
+        "score": 0.8601823
+      },
+      "faq": {
+        "checkpoint": "v10",
+        "score": 0.7401242
+      },
+      "about": {
+        "checkpoint": "v10",
+        "score": 0.769215
+      }
+    },
+    "mobile": {
+      "home": {
+        "checkpoint": "v11",
+        "score": 0.89029851
+      },
+      "best": {
+        "checkpoint": "v11",
+        "score": 0.55909462
+      },
+      "stores": {
+        "checkpoint": "v11",
+        "score": 0.75912264
+      },
+      "faq": {
+        "checkpoint": "v11",
+        "score": 0.76817391
+      },
+      "about": {
+        "checkpoint": "v11",
+        "score": 0.42939867
+      }
+    }
+  }
+}

@@ -1,0 +1,130 @@
+[
+  {
+    "name": "SVÄRDFISK",
+    "description": "gunting, set isi 2, baja tahan karat abu-abu/abu-abu toska",
+    "price": "Rp 19.900",
+    "image": "https://www.ikea.co.id/dairyfarm/id/images/152/1215203_PE911915_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/peralatan-dapur/perkakas-dapur/svardfisk-art-40563432",
+    "sale": true
+  },
+  {
+    "name": "FRAKTA",
+    "description": "kantong belanja, besar, biru, 55x37x35 cm/71 l",
+    "price": "Rp 9.900",
+    "image": "https://www.ikea.co.id/dairyfarm/id/images/112/0711230_PE728075_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/pengaturan-pakaian-sepatu-dan-aksesoris/aksesoris-tas-dan-perjalanan/frakta-art-60299219",
+    "sale": false
+  },
+  {
+    "name": "FRAKTA",
+    "description": "kantong belanja, medium, biru, 45x18x45 cm/36 l",
+    "price": "Rp 8.900",
+    "image": "https://www.ikea.co.id/dairyfarm/id/images/092/1409204_PE972164_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/pengaturan-pakaian-sepatu-dan-aksesoris/aksesoris-tas-dan-perjalanan/frakta-art-40611112",
+    "sale": false
+  },
+  {
+    "name": "BOLMEN",
+    "description": "tempat dan sikat toilet, hitam",
+    "price": "Rp 17.900",
+    "image": "https://www.ikea.co.id/dairyfarm/id/images/015/1501575_PE1007369_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/aksesoris-kamar-mandi/kamar-mandi-dan-toilet/bolmen-art-70574434",
+    "sale": false
+  },
+  {
+    "name": "FRAKTA",
+    "description": "tas untuk troli, biru, 73x35x30 cm 76 l",
+    "price": "Rp 50.000",
+    "image": "https://www.ikea.co.id/dairyfarm/id/images/112/0711261_PE728099_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/pengaturan-pakaian-sepatu-dan-aksesoris/aksesoris-tas-dan-perjalanan/frakta-art-90161989",
+    "sale": false
+  },
+  {
+    "name": "OFTAST",
+    "description": "mangkuk, putih, 15 cm",
+    "price": "Rp 12.900",
+    "image": "https://www.ikea.co.id/dairyfarm/id/images/122/0712208_PE728639_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/peralatan-dan-perlengkapan-makan/alat-makan/oftast-art-60258916",
+    "sale": false
+  },
+  {
+    "name": "MÅNÖGA",
+    "description": "gunting, baja tahan karat/hitam",
+    "price": "Rp 9.900",
+    "image": "https://www.ikea.co.id/dairyfarm/id/images/151/1215197_PE911911_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/peralatan-dapur/perkakas-dapur/manoga-art-80563430",
+    "sale": false
+  },
+  {
+    "name": "BRATTBY",
+    "description": "tas, 27x27 cm",
+    "price": "Rp 7.900",
+    "image": "https://www.ikea.co.id/dairyfarm/id/images/394/0439474_PE592081_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/pengaturan-pakaian-sepatu-dan-aksesoris/aksesoris-tas-dan-perjalanan/brattby-art-40185474",
+    "sale": false
+  },
+  {
+    "name": "SPRUTTIG",
+    "description": "gantungan, hitam",
+    "price": "Rp 34.900",
+    "image": "https://www.ikea.co.id/dairyfarm/id/images/106/0710664_PE727695_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/pengaturan-pakaian-sepatu-dan-aksesoris/gantungan-pakaian-dan-aksesoris-sepatu/spruttig-art-40317078",
+    "sale": true
+  },
+  {
+    "name": "OFTAST",
+    "description": "piring, putih, 25 cm",
+    "price": "Rp 12.900",
+    "image": "https://www.ikea.co.id/dairyfarm/id/images/123/0712367_PE728786_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/peralatan-dan-perlengkapan-makan/alat-makan/oftast-art-10258914",
+    "sale": false
+  },
+  {
+    "name": "OFTAST",
+    "description": "piring cekung, putih, 20 cm",
+    "price": "Rp 12.900",
+    "image": "https://www.ikea.co.id/dairyfarm/id/images/123/0712360_PE728779_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/peralatan-dan-perlengkapan-makan/alat-makan/oftast-art-20318941",
+    "sale": false
+  },
+  {
+    "name": "MEDELVÅG",
+    "description": "sikat botol, putih",
+    "price": "Rp 14.900",
+    "image": "https://www.ikea.co.id/dairyfarm/id/images/178/0417863_PE575616_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/penyimpanan-dan-pencucian/pencucian/medelvag-art-80318943",
+    "sale": false
+  },
+  {
+    "name": "BÄSTIS",
+    "description": "rol pembersih pakaian, abu-abu",
+    "price": "Rp 19.900",
+    "image": "https://www.ikea.co.id/dairyfarm/id/images/548/0654805_PE708843_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/perawatan-dan-perbaikan/pembersihan-dan-aksesori-pembersihan/bastis-art-70425627",
+    "sale": false
+  },
+  {
+    "name": "DJUNGELSKOG",
+    "description": "boneka, orangutan",
+    "price": "Rp 129.000",
+    "image": "https://www.ikea.co.id/dairyfarm/id/images/101/0710167_PE727369_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/mainan-dan-kreativitas/boneka/djungelskog-art-30402840",
+    "sale": false
+  },
+  {
+    "name": "SVAMPIG",
+    "description": "spons, abu-abu-hijau",
+    "price": "Rp 19.900",
+    "image": "https://www.ikea.co.id/dairyfarm/id/images/072/1407235_PE971444_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/penyimpanan-dan-pencucian/pencucian/svampig-art-90595440",
+    "sale": false
+  },
+  {
+    "name": "TOMAT",
+    "description": "botol semprot, putih, 35 cl",
+    "price": "Rp 19.900",
+    "image": "https://www.ikea.co.id/dairyfarm/id/images/376/0637666_PE698477_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/dekorasi/pot-tanaman/tomat-art-90387988",
+    "sale": false
+  }
+]

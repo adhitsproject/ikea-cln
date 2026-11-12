@@ -1,0 +1,412 @@
+{
+  "name": "best",
+  "styles": [
+    "/webroot/css/main.css?v=1793258014",
+    "/webroot/css/material-icons/material-icons.css?v=1793258014",
+    "/webroot/css/vendor/fontawesome-6.5.2/all.min.css?v=1793258014",
+    "/webroot/css/vendor/swiper-8.2.4/swiper-bundle.min.css?v=1793258014",
+    "/webroot/css/components/ikea-pictograms.css?v=1793258014",
+    "/webroot/css/components/ikea-icons.css?v=1793258014",
+    "/webroot/css/components/ikea-fundament-icons.css?v=1793258014",
+    "/webroot/css/components/ikea-fundament-icons-v2.css?v=1793258014",
+    "/webroot/css/components/buttons.css?v=1793258014",
+    "/webroot/css/components/loading.css?v=1793258014",
+    "/webroot/css/components/sidenav.css?v=1793258014",
+    "/webroot/css/components/modal.css?v=1793258014",
+    "/webroot/css/components/advices.css?v=1793258014",
+    "/webroot/css/components/prices.css?v=1793258014",
+    "/webroot/css/vendor/busyLoad/busyLoad.css?v=1793258014",
+    "/webroot/css/vendor/icheck/icheck_custom.css?v=1793258014",
+    "/webroot/css/vendor/side-drawer-modal-bootstrap/bootstrap-side-modals.css?v=1793258014",
+    "/webroot/css/vendor/cookieconsent.min.css?v=1793258014",
+    "/webroot/css/webview/webviewmodal.css?v=1793258014",
+    "/webroot/css/components/toastr.css?v=1793258014",
+    "/webroot/css/views/socialNetworks.css?v=1793258014",
+    "/webroot/css/layout/style-fix.css?v=1793258014",
+    "/webroot/css/components/shoppingCart-tooltip.css?v=1793258014",
+    "/webroot/css/components/template_item_counter.css?v=1793258014",
+    "/webroot/css/plugins/skapa-components/cards.css?v=1793258014",
+    "/webroot/css/plugins/skapa-components/block.css?v=1793258014",
+    "/webroot/css/polygons/polygons.css?v=1793258014",
+    "/webroot/css/components/listAllRange.css?v=1793258014",
+    "/webroot/css/vendor/slick/slick.css?v=1793258014",
+    "/webroot/css/vendor/slick/slick-theme-custom.css?v=1793258014",
+    "/webroot/css/vendor/slick/sliderMain.css?v=1793258014",
+    "/webroot/css/vendor/jqueryui/jquery-ui-custom.css?v=1793258014",
+    "/webroot/css/views/socialNetworks.css?v=1793258014",
+    "/webroot/css/components/search-algolia/searcher.css?v=1793258014",
+    "/webroot/css/views/homepage.css?v=1793258014",
+    "/webroot/css/views/bestDealsBlock.css?v=1793258014",
+    "/webroot/css/components/productList.css?v=1793258014",
+    "/webroot/css/components/itemInfo.css?v=1793258014",
+    "/webroot/css/components/energyTag.css?v=1793258014",
+    "/webroot/css/components/filters.css?v=1793258014",
+    "/webroot/css/components/customPages.css?v=1793258014",
+    "/webroot/css/components/productListMenu.css?v=1793258014",
+    "/webroot/css/components/template_item_block.css?v=1793258014",
+    "/webroot/css/components/template_item_selector.css?v=1793258014",
+    "/webroot/css/components/template_item_versions.css?v=1793258014",
+    "/webroot/css/components/template_item_counter.css?v=1793258014",
+    "/webroot/css/components/buttons.css?v=1793258014",
+    "/webroot/css/components/pagination.css?v=1793258014",
+    "/webroot/css/plugins/item-stickers/item-stickers.css?v=1793258014",
+    "https://assets.api.useinsider.com/css/info.min.css",
+    "/webroot/css/layout/headerMain.css?v=1793258014",
+    "/webroot/css/plugins/sidebar-main-menu.css?v=1793258014",
+    "/webroot/css/layout/footerMainLinks.css?v=1793258014",
+    "/webroot/css/layout/footerMainLegal.css?v=1793258014"
+  ],
+  "images": [
+    {
+      "src": "/webroot/img/logos/IKEA_logo.svg?v=1793258014",
+      "alt": "IKEA",
+      "class": [
+        "d-inline-block"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010324_range.webp",
+      "alt": "Kamar tidur",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010347_range.webp",
+      "alt": "Ruang keluarga",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010377_range.webp",
+      "alt": "Dapur",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010528_range.webp",
+      "alt": "Ruang makan",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010575_range.webp",
+      "alt": "Ruang kerja",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010592_range.webp",
+      "alt": "Kamar mandi",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010613_range.webp",
+      "alt": "Dunia anak",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010628_range.webp",
+      "alt": "Luar ruang",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010642_range.webp",
+      "alt": "Laundry",
+      "width": "350"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/logos/IKEA_logo.svg",
+      "alt": "IKEA",
+      "width": "160",
+      "height": "65",
+      "class": [
+        "d-inline-block",
+        "align-center"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/logos/IKEA_logo.svg",
+      "alt": "IKEA",
+      "width": "160",
+      "height": "65",
+      "class": [
+        "d-inline-block"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1794320854467_0_1.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1794320855143_0_3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1793860807920_1_1.webp",
+      "class": [
+        "img-fluid",
+        "polygonized"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/tag-filled.svg"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/903/1590374_PE1039012_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/290/1029067_PE835651_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/678/0667847_PE714123_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/746/1074639_PE856242_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1793860808567_1_3.webp",
+      "class": [
+        "img-fluid",
+        "polygonized"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/tag-filled.svg"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/903/1590375_PE1039013_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/904/1590472_PE1039110_S3.webp",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "/webroot/img/polygons/chevron-right.svg",
+      "alt": "chevron"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/360/0736022_PE740349_S4.jpg",
+      "alt": "MICKE",
+      "class": [
+        "ist11-card-img"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/360/0736018_PE740345_S4.jpg",
+      "alt": "MICKE",
+      "class": [
+        "ist11-card-img"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/371/1437160_PE984393_S4.jpg",
+      "alt": "BOLLPOJKE",
+      "class": [
+        "ist11-card-img"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/359/1535935_PE1016671_S4.jpg",
+      "alt": "TRAVSPORT",
+      "class": [
+        "ist11-card-img"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/359/0735972_PE740306_S4.jpg",
+      "alt": "LISABO",
+      "class": [
+        "ist11-card-img"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/201/1020142_PE831799_S4.jpg",
+      "alt": "MILLBERGET",
+      "class": [
+        "ist11-card-img"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/201/1020135_PE831794_S4.jpg",
+      "alt": "RENBERGET",
+      "class": [
+        "ist11-card-img"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/777/0977777_PE813764_S4.jpg",
+      "alt": "ALEX",
+      "class": [
+        "ist11-card-img"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/098/1209817_PE909458_S4.jpg",
+      "alt": "ALEX",
+      "class": [
+        "ist11-card-img"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/848/1484824_PE1001713_S4.jpg",
+      "alt": "HELMER",
+      "class": [
+        "ist11-card-img"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/271/0627113_PE693172_S4.jpg",
+      "alt": "MICKE",
+      "class": [
+        "ist11-card-img"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/777/0977785_PE813769_S4.jpg",
+      "alt": "ALEX",
+      "class": [
+        "ist11-card-img"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/848/1484820_PE1001717_S4.jpg",
+      "alt": "HELMER",
+      "class": [
+        "ist11-card-img"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/358/1235858_PE917375_S4.jpg",
+      "alt": "MITTZON",
+      "class": [
+        "ist11-card-img"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/images/173/1517313_PE1012246_S4.jpg",
+      "alt": "TROTTEN",
+      "class": [
+        "ist11-card-img"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1794320855412_12_1.gif",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1794320855508_12_3.gif",
+      "class": [
+        "img-fluid"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/commons/home-footer-iphone.png",
+      "alt": "Mobile with App",
+      "width": "170"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/static_content/payment_partners/visaFooter.svg",
+      "alt": "Visa",
+      "class": [
+        "credit-card--img",
+        "img-fluid",
+        "paymentData"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/static_content/payment_partners/visaElectronFooter.svg",
+      "alt": "Visa electron",
+      "class": [
+        "credit-card--img",
+        "img-fluid",
+        "paymentData"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/static_content/payment_partners/masterCardFooter.svg",
+      "alt": "Master card",
+      "class": [
+        "credit-card--img",
+        "img-fluid",
+        "paymentData"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/static_content/payment_partners/maestroFooter.svg",
+      "alt": "Maestro",
+      "class": [
+        "credit-card--img",
+        "img-fluid",
+        "paymentData"
+      ]
+    },
+    {
+      "data-src": "/webroot/img/polygons/cross.svg",
+      "alt": "cross",
+      "class": [
+        "lazyload"
+      ]
+    },
+    {
+      "src": "https://www.facebook.com/tr?id=368630343752849&ev=PageView&noscript=1",
+      "width": "1",
+      "height": "1"
+    },
+    {},
+    {
+      "alt": "search-custom-banner"
+    },
+    {
+      "src": "https://bat.bing.com/action/0?ti=97173127&tm=gtm002&Ver=2&mid=d27f52c2-2bf2-4d34-b145-ede98ada3999&bo=1&sid=76a66dc0ddb111f1856c4527291b569f&vid=76a6e670ddb111f1ab5b5fe5129a3bef&vids=1&msclkid=N&uach=pv%3D10.0.0&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Produk%20Terlaris%20IKEA%20dan%20Produk%20Populer&p=https%3A%2F%2Fwww.ikea.co.id%2Fin%2Fpenawaran%2Fproduk-terlaris%23all&r=&lt=5432&evt=pageLoad&sv=2&cdb=AQAQ&rn=774440",
+      "width": "0",
+      "height": "0"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Ccircle cx='12' cy='12' r='12' fill='%23111111' fill-opacity='.12'/%3E%3Cpath d='M8.2 8.2l7.6 7.6M15.8 8.2l-7.6 7.6' stroke='%23111111' stroke-width='1.6' stroke-linecap='round'/%3E%3C/svg%3E",
+      "alt": "Close",
+      "class": [
+        "ins-close-icon"
+      ]
+    }
+  ],
+  "fonts": [],
+  "inline_style_count": 12
+}

@@ -1,0 +1,10 @@
+{
+  "command": [
+    "node",
+    "--check",
+    ".pwc/interaction-probe.js"
+  ],
+  "exit_code": 0,
+  "stdout": "",
+  "stderr": ""
+}

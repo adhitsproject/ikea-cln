@@ -1,0 +1,147 @@
+{
+  "build": "v7",
+  "context": "Cloudflare Browser Rendering snapshot using frozen built JS/CSS, route render input substituted; local asset references mapped to original URLs, local fonts inlined; no public deployment",
+  "native_local_browser_blocker": "Windows process/pipe launch access denied",
+  "captures": [
+    {
+      "route": "/in",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "screenshot": "home-v7-1440.png",
+      "actual_dimensions": [
+        1440,
+        9607
+      ],
+      "sha256": "95bdbf083dd73d258668afa22d267ccf286576f6ed32574347544eab269b8f38",
+      "home_hero_frame_normalized": true
+    },
+    {
+      "route": "/in/penawaran/produk-terlaris#all",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "screenshot": "best-v7-1440.png",
+      "actual_dimensions": [
+        1440,
+        3785
+      ],
+      "sha256": "ac65d7c36e1585eff968726db5c71dce59f29e7e0ae0f6ad08aaec86bb44685f",
+      "home_hero_frame_normalized": false
+    },
+    {
+      "route": "/in/lokasi-kami",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "screenshot": "stores-v7-1440.png",
+      "actual_dimensions": [
+        1440,
+        3128
+      ],
+      "sha256": "2b28dcc2485c61775cf4bb7364d2716d945b417f9babe49863f265e1241f83a8",
+      "home_hero_frame_normalized": false
+    },
+    {
+      "route": "/in/layanan-pelanggan/faq",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "screenshot": "faq-v7-1440.png",
+      "actual_dimensions": [
+        1440,
+        6273
+      ],
+      "sha256": "e01e0d4cdcbc3986367e6dfa8d0f269f458f20bd0ac6460f00e53dd4e9f5cc0c",
+      "home_hero_frame_normalized": false
+    },
+    {
+      "route": "/in/tentang/perusahaan-ikea",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "screenshot": "about-v7-1440.png",
+      "actual_dimensions": [
+        1440,
+        3179
+      ],
+      "sha256": "d71262a29db9f6f5e2f92b4605b67e1dfe92050e84ef340615f0be7192fb06f1",
+      "home_hero_frame_normalized": false
+    },
+    {
+      "route": "/in",
+      "viewport": [
+        390,
+        844
+      ],
+      "screenshot": "home-v7-390.png",
+      "actual_dimensions": [
+        390,
+        10874
+      ],
+      "sha256": "da0db72b4f18767ccec260cac9bad56eb19ee5cc2ceb4ee028da894eb5988103",
+      "home_hero_frame_normalized": true
+    },
+    {
+      "route": "/in/penawaran/produk-terlaris#all",
+      "viewport": [
+        390,
+        844
+      ],
+      "screenshot": "best-v7-390.png",
+      "actual_dimensions": [
+        390,
+        4271
+      ],
+      "sha256": "9a72da2b883bb60416de653712caf2eefcf4e711ec5a15303086569f476621ae",
+      "home_hero_frame_normalized": false
+    },
+    {
+      "route": "/in/lokasi-kami",
+      "viewport": [
+        390,
+        844
+      ],
+      "screenshot": "stores-v7-390.png",
+      "actual_dimensions": [
+        390,
+        5349
+      ],
+      "sha256": "53bf0ab6188d230149291ddb0cd0e558a37d92827213cb644d09ff8882bba8f0",
+      "home_hero_frame_normalized": false
+    },
+    {
+      "route": "/in/layanan-pelanggan/faq",
+      "viewport": [
+        390,
+        844
+      ],
+      "screenshot": "faq-v7-390.png",
+      "actual_dimensions": [
+        390,
+        7885
+      ],
+      "sha256": "009a3df3a9d46c171cbd05be2e4813dd63d842eb9f22e19c9152bedea99239f1",
+      "home_hero_frame_normalized": false
+    },
+    {
+      "route": "/in/tentang/perusahaan-ikea",
+      "viewport": [
+        390,
+        844
+      ],
+      "screenshot": "about-v7-390.png",
+      "actual_dimensions": [
+        390,
+        4887
+      ],
+      "sha256": "414d0c0b0467bb1bdb387d84de2ea2b68abd8e697ed21fa573b3a8f0c2d2d3f1",
+      "home_hero_frame_normalized": false
+    }
+  ]
+}

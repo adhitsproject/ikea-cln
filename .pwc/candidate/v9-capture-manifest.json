@@ -1,0 +1,196 @@
+{
+  "version": "v9",
+  "provenance": "Frozen built JS/CSS rendered through Cloudflare Browser Rendering, local fonts inlined, local media references mapped to original URLs while preserving authored src. Native local browser remains unavailable. Home hero uses original GIF frame 1 only in QA.",
+  "captures": [
+    {
+      "page": "home",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "actual_dimensions": [
+        1440,
+        9437
+      ],
+      "screenshot": "home-v9-1440.png",
+      "sha256": "1a249d8ca33ec56d9c8e69bf01a053e0acebe7224b8e2c1c59b360541f87058d",
+      "loaded_images": 85,
+      "image_count": 85,
+      "runtime_errors": [],
+      "horizontal_overflow": false,
+      "has_main": true,
+      "hero_frame_normalized": true
+    },
+    {
+      "page": "best",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "actual_dimensions": [
+        1440,
+        3442
+      ],
+      "screenshot": "best-v9-1440.png",
+      "sha256": "6f76a777fa7c0b10c9bb4658dfd781b92efdad3c47f711e2dee5d6f0c9418ced",
+      "loaded_images": 18,
+      "image_count": 18,
+      "runtime_errors": [],
+      "horizontal_overflow": false,
+      "has_main": true,
+      "hero_frame_normalized": false
+    },
+    {
+      "page": "stores",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "actual_dimensions": [
+        1440,
+        3234
+      ],
+      "screenshot": "stores-v9-1440.png",
+      "sha256": "6d23b6177a96b7cef29acbe4fd8b9b210b78c925a8d612116aaab12b89db3622",
+      "loaded_images": 9,
+      "image_count": 9,
+      "runtime_errors": [],
+      "horizontal_overflow": false,
+      "has_main": true,
+      "hero_frame_normalized": false
+    },
+    {
+      "page": "faq",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "actual_dimensions": [
+        1440,
+        6406
+      ],
+      "screenshot": "faq-v9-1440.png",
+      "sha256": "dd5ab55b4b412b8ddf12146e1ff672b508f3e2cd88c790c5d68bc7ee1d806eee",
+      "loaded_images": 2,
+      "image_count": 2,
+      "runtime_errors": [],
+      "horizontal_overflow": false,
+      "has_main": true,
+      "hero_frame_normalized": false
+    },
+    {
+      "page": "about",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "actual_dimensions": [
+        1564,
+        3188
+      ],
+      "screenshot": "about-v9-1440.png",
+      "sha256": "117489522976c2b5b3d6c6ca56dd8581d829da02604227ff045136ee65498cbd",
+      "loaded_images": 7,
+      "image_count": 7,
+      "runtime_errors": [],
+      "horizontal_overflow": true,
+      "has_main": true,
+      "hero_frame_normalized": false
+    },
+    {
+      "page": "home",
+      "viewport": [
+        390,
+        844
+      ],
+      "actual_dimensions": [
+        390,
+        10567
+      ],
+      "screenshot": "home-v9-390.png",
+      "sha256": "f9d5ba01c603444a27c59a2cf1be0405121359a4541197b0b42412c4c1250b4d",
+      "loaded_images": 85,
+      "image_count": 85,
+      "runtime_errors": [],
+      "horizontal_overflow": false,
+      "has_main": true,
+      "hero_frame_normalized": true
+    },
+    {
+      "page": "best",
+      "viewport": [
+        390,
+        844
+      ],
+      "actual_dimensions": [
+        390,
+        4388
+      ],
+      "screenshot": "best-v9-390.png",
+      "sha256": "19377c23070597c696b351ea2cf79b7c6ac05a418b0daf5802c0a155cf127261",
+      "loaded_images": 18,
+      "image_count": 18,
+      "runtime_errors": [],
+      "horizontal_overflow": false,
+      "has_main": true,
+      "hero_frame_normalized": false
+    },
+    {
+      "page": "stores",
+      "viewport": [
+        390,
+        844
+      ],
+      "actual_dimensions": [
+        390,
+        5906
+      ],
+      "screenshot": "stores-v9-390.png",
+      "sha256": "9f2639c929bad4e4226b77d706d874c282141bead919961d75ca257013426ad7",
+      "loaded_images": 9,
+      "image_count": 9,
+      "runtime_errors": [],
+      "horizontal_overflow": false,
+      "has_main": true,
+      "hero_frame_normalized": false
+    },
+    {
+      "page": "faq",
+      "viewport": [
+        390,
+        844
+      ],
+      "actual_dimensions": [
+        390,
+        7548
+      ],
+      "screenshot": "faq-v9-390.png",
+      "sha256": "0e92850d3ebe3ed2a6947aa0a1e0882b69291e7eb95c0752e266f13361fe95a2",
+      "loaded_images": 2,
+      "image_count": 2,
+      "runtime_errors": [],
+      "horizontal_overflow": false,
+      "has_main": true,
+      "hero_frame_normalized": false
+    },
+    {
+      "page": "about",
+      "viewport": [
+        390,
+        844
+      ],
+      "actual_dimensions": [
+        390,
+        5268
+      ],
+      "screenshot": "about-v9-390.png",
+      "sha256": "ebc8dbd895551f93bed268c8476d78adf076869f4e26741898d2addf154a0f98",
+      "loaded_images": 7,
+      "image_count": 7,
+      "runtime_errors": [],
+      "horizontal_overflow": false,
+      "has_main": true,
+      "hero_frame_normalized": false
+    }
+  ]
+}

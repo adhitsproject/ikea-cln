@@ -1,0 +1,37 @@
+{
+  "checked_at": "2026-11-12T08:33:30Z",
+  "candidate": "v15",
+  "hashes": {
+    "js": "fd648e6ff6bb5ca8b2296e61fe652811f23d261af7849ff691790fd771cf409a",
+    "css": "7cde9e2bb1e5a4ca7aee026086559ba8389136f3634a33e6bd950238d0c5c628"
+  },
+  "method": "Cloudflare Browser Rendering snapshot of frozen dist",
+  "attempts": [
+    {
+      "cell": "190",
+      "outcome": "failed",
+      "observed_error": "SyntaxError: Unexpected token 'o', \"tool call e\"... is not valid JSON",
+      "note": "Tool returned non-JSON error text, not a valid rendering envelope; no snapshot persisted."
+    },
+    {
+      "cell": "192",
+      "outcome": "cancelled_after_no_response",
+      "note": "Single desktop retry did not return a tool response within approximately five minutes; cancelled by agent. No remote browser failure reason was received."
+    }
+  ],
+  "screenshots": {
+    "desktop": "unverified",
+    "mobile": "not_run_after_desktop_transport_failure"
+  },
+  "interactions": {
+    "desktop": "not_run_after_rendering_transport_failure",
+    "mobile": "not_run_after_rendering_transport_failure"
+  },
+  "last_measured_evidence": [
+    ".pwc/candidate/best-v11-1440.png",
+    ".pwc/candidate/best-v11-390.png",
+    ".pwc/candidate/best-v13-1440-interactions.json",
+    ".pwc/candidate/best-v13-390-interactions.json"
+  ],
+  "scope": "V15 CSS changes Best editorial composite natural height and source slide sizing; prior V13 interactions are not a fresh V15 replay."
+}

@@ -1,0 +1,10 @@
+{
+  "command": [
+    "pwc",
+    "weight",
+    "dist"
+  ],
+  "exit_code": 0,
+  "stdout": "{\n  \"ok\": true,\n  \"total_kb\": 126371.745,\n  \"budget_kb\": 120,\n  \"by_type\": {\n    \"html\": 0.351,\n    \"css\": 13.574,\n    \"js\": 91.676,\n    \"assets\": 126265.019,\n    \"svg\": 1.126\n  },\n  \"code_kb\": 106.727,\n  \"asset_kb\": 126265.019,\n  \"code_budget_kb\": 120,\n  \"asset_budget_kb\": null,\n  \"code_ok\": true,\n  \"asset_ok\": true\n}\n",
+  "stderr": ""
+}

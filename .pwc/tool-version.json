@@ -1,0 +1,11 @@
+{
+  "package": "perfect-web-clone",
+  "version": "3.0.0",
+  "direct_url": {
+    "url": "https://github.com/ericshang98/Perfect-Web-Clone.git",
+    "vcs_info": {
+      "commit_id": "c846c37937a70497d37d082c26c85aa1289a9fa5",
+      "vcs": "git"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "errors": [],
+  "hasMain": true,
+  "imageCount": 85,
+  "sections": [
+    "home-hero",
+    "category-browser",
+    "price-section",
+    "favorite-videos",
+    "storage-section",
+    "new-ikea",
+    "home-collection",
+    "special-products",
+    "latest-offers",
+    "himalaya",
+    "explore-ikea",
+    "home-services",
+    "home-tips",
+    "seo-copy"
+  ],
+  "build": {
+    "js": "a297f9f03ca132cbfd89f2200a80ad4582c3767fb80983c8da8ad85e13cadb49",
+    "css": "7c1d029031b5f287fe29391bea7fc14bb66c3c6ea385cda8e39287a224735e33"
+  },
+  "context": "Frozen V9 provisional dist Home1440 remote runtime smoke"
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1794209551334__1.gif",
+    "error": "TypeError: Failed to fetch"
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1794209551445__3.gif",
+    "error": "TypeError: Failed to fetch"
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1794325702878__1.gif",
+    "error": "TypeError: Failed to fetch"
+  },
+  {
+    "url": "https://www.ikea.co.id/webroot/img/logos/IKEA_logo.svg?v=1793258014",
+    "local": "public\\assets\\IKEA_logo.svg",
+    "type": "image/svg+xml",
+    "bytes": 2277
+  },
+  {
+    "url": "https://www.ikea.co.id/webroot/css/main.css?v=1793258014",
+    "local": ".pwc\\cloudflare-source\\css\\main.css",
+    "type": "text/css",
+    "bytes": 308644
+  },
+  {
+    "url": "https://www.ikea.co.id/webroot/css/layout/headerMain.css?v=1793258014",
+    "local": ".pwc\\cloudflare-source\\css\\headerMain.css",
+    "type": "text/css",
+    "bytes": 204518
+  },
+  {
+    "url": "https://www.ikea.co.id/webroot/css/layout/footerMainLinks.css?v=1793258014",
+    "local": ".pwc\\cloudflare-source\\css\\footerMainLinks.css",
+    "type": "text/css",
+    "bytes": 5051
+  },
+  {
+    "url": "https://www.ikea.co.id/webroot/css/layout/footerMainLegal.css?v=1793258014",
+    "local": ".pwc\\cloudflare-source\\css\\footerMainLegal.css",
+    "type": "text/css",
+    "bytes": 1027
+  }
+]

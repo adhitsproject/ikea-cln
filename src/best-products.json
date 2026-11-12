@@ -1,0 +1,107 @@
+[
+  {
+    "name": "MICKE",
+    "description": "meja, putih, 73x50 cm",
+    "price": "Rp 999.000",
+    "image": "/assets/0736022_PE740349_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/meja-kerja/micke-art-80354281"
+  },
+  {
+    "name": "MICKE",
+    "description": "meja, putih, 105x50 cm",
+    "price": "Rp 1.799.000",
+    "image": "/assets/0736018_PE740345_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/meja-kerja/micke-art-80354276"
+  },
+  {
+    "name": "BOLLPOJKE",
+    "description": "meja, kayu pinus/putih, 90x55 cm",
+    "price": "Rp 1.999.000",
+    "image": "/assets/1437160_PE984393_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/meja-kerja/bollpojke-art-80604218"
+  },
+  {
+    "name": "TRAVSPORT",
+    "description": "rangka bwh ddk/berdiri u perm meja, krem, 120x70 cm",
+    "price": "Rp 3.000.000",
+    "image": "/assets/1535935_PE1016671_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/meja-kerja/travsport-art-00620444"
+  },
+  {
+    "name": "LISABO",
+    "description": "meja, veneer kayu ash, 118x45 cm",
+    "price": "Rp 2.499.000",
+    "image": "/assets/0735972_PE740306_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/meja-kerja/lisabo-art-10361746"
+  },
+  {
+    "name": "MILLBERGET",
+    "description": "kursi putar, Murum hitam",
+    "price": "Rp 1.799.000",
+    "image": "/assets/1020142_PE831799_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/kursi-putar/millberget-art-40489395"
+  },
+  {
+    "name": "RENBERGET",
+    "description": "kursi putar, Bomstad hitam",
+    "price": "Rp 799.000",
+    "image": "/assets/1020135_PE831794_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/kursi-putar/renberget-art-20493548"
+  },
+  {
+    "name": "ALEX",
+    "description": "unit laci, diwarnai putih/efek kayu oak, 36x70 cm",
+    "price": "Rp 1.350.000",
+    "image": "/assets/0977777_PE813764_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/rak-penyimpanan-meja-kerja/alex-art-20473550"
+  },
+  {
+    "name": "ALEX",
+    "description": "unit penyimpanan, putih, 36x70 cm",
+    "price": "Rp 1.499.000",
+    "image": "/assets/1209817_PE909458_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/rak-penyimpanan-meja-kerja/alex-art-30563753"
+  },
+  {
+    "name": "HELMER",
+    "description": "unit laci beroda, putih, 28x65 cm",
+    "price": "Rp 599.000",
+    "image": "/assets/1484824_PE1001713_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/rak-penyimpanan-meja-kerja/helmer-art-80619903"
+  },
+  {
+    "name": "MICKE",
+    "description": "unit laci beroda, putih, 35x75 cm",
+    "price": "Rp 1.299.000",
+    "image": "/assets/0627113_PE693172_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/rak-penyimpanan-meja-kerja/micke-art-40354283"
+  },
+  {
+    "name": "ALEX",
+    "description": "unit laci beroda, putih, 67x66 cm",
+    "price": "Rp 1.999.000",
+    "image": "/assets/0977785_PE813769_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/rak-penyimpanan-meja-kerja/alex-art-30485425"
+  },
+  {
+    "name": "HELMER",
+    "description": "unit laci beroda, hitam, 28x65 cm",
+    "price": "Rp 599.000",
+    "image": "/assets/1484820_PE1001717_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/rak-penyimpanan-meja-kerja/helmer-art-50625024"
+  },
+  {
+    "name": "MITTZON",
+    "description": "meja laptop dengan roda, hitam, 66x50 cm",
+    "price": "Rp 2.499.000",
+    "image": "/assets/1235858_PE917375_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/ruang-kerja-kantor/meja-kerja/mittzon-art-20515593"
+  },
+  {
+    "name": "TROTTEN",
+    "description": "rangka bwh ddk/berdiri u perm meja, putih, 120x70 cm",
+    "price": "Rp 3.000.000",
+    "image": "/assets/1517313_PE1012246_S4.jpg",
+    "href": "https://www.ikea.co.id/in/produk/ruang-kerja-kantor/meja-kerja/trotten-art-50598407"
+  }
+]

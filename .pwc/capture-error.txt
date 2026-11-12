@@ -1,0 +1,3 @@
+PWC command: PWC_SOURCES_DIR=D:\Projects\ikea-cln\.pwc\sources; pwc extract https://www.ikea.co.id/in
+Result: ok=false, source_id=www.ikea.co.id-1794386247-0bd3d3, capture_attempts=1.
+Playwright failed before browser launch with PermissionError(13, Access is denied) while asyncio.windows_utils attempted CreateFile for its subprocess pipe. No page screenshot, DOM, or interaction data was captured.

@@ -1,0 +1,37 @@
+{
+  "path": "blank",
+  "results": [
+    {
+      "name": "menu opens and closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "search opens and accepts input",
+      "pass": false,
+      "detail": "search popover did not open"
+    },
+    {
+      "name": "all pickup cities render locations",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "cookie consent dismisses banner",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "runtimeErrors": [],
+  "requested_route": "/in/lokasi-kami",
+  "viewport": [
+    390,
+    844
+  ],
+  "build": "<!doctype html>\n<html lang=\"id\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <meta name=\"theme-color\" content=\"#0058a3\" />\n    <meta name=\"description\" content=\"IKEA Indonesia – inspirasi dan solusi untuk kehidupan sehari-hari di rumah.\" />\n    <title>IKEA Indonesia – Perabot rumah & inspirasi</title>\n    <script type=\"module\" crossorigin src=\"/assets/index-5b8q8xRj.js\"></script>\n    <link rel=\"stylesheet\" crossorigin href=\"/assets/index-BHkCcnKx.css\">\n  </head>\n  <body><div id=\"root\"></div></body>\n</html>\n",
+  "hashes": {
+    "js": "9253378fba09f2952bf2274934a5ad7a772af0ce7692e0fd0f868308e80757f8",
+    "css": "263eac4daaca32cecd9b58e01061cd2ef78d548a640548e58456997e27b23cd3"
+  },
+  "provenance": "Frozen V9 dist, Cloudflare remote replay; route input substituted; local media mapped preserving authored src; local files separately audited"
+}

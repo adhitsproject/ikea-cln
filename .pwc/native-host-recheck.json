@@ -1,0 +1,11 @@
+{
+  "checked_at": "2026-11-12T03:34:00Z",
+  "method": "cua.getState",
+  "apps": [],
+  "browsers": [],
+  "errors": [
+    "Computer Use native pipe unavailable: failed to connect native pipe, OS error 2",
+    "Browser access host unavailable"
+  ],
+  "consequence": "Local native browser verification remains unavailable; remote Browser Rendering evidence is kept separate from native PWC capture"
+}

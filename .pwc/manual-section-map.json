@@ -1,0 +1,44 @@
+{
+  "note": "Manual mapping from independently captured rendered IKEA DOM to authored React sections. PWC native extraction/assembly did not complete; this is source evidence, not a substitute pass for that gate.",
+  "source_root": ".pwc/cloudflare-source",
+  "routes": {
+    "/in": [
+      ["11.11 campaign hero", ".home-hero"],
+      ["FLASH SALE 11.11", ".flash-banner"],
+      ["Belanja berdasarkan kategori", ".category-browser"],
+      ["Turun harga", ".price-section"],
+      ["Produk favorit", ".favorite-videos"],
+      ["Solusi penyimpanan dan pengaturan", ".storage-section"],
+      ["Terbaru di IKEA", ".new-ikea"],
+      ["Jelajahi koleksi kami", ".home-collection"],
+      ["Spesial untuk Kamu", ".special-products"],
+      ["Penawaran terbaru di IKEA", ".latest-offers"],
+      ["Selamat datang di Himalaya", ".himalaya"],
+      ["Jelajahi IKEA", ".explore-ikea"],
+      ["Layanan IKEA", ".home-services"],
+      ["Tips dan ide untuk rumah yang lebih ramah lingkungan", ".home-tips"]
+    ],
+    "/in/penawaran/produk-terlaris#all": [
+      ["Spesial 11.11 banner", ".best-banner"],
+      ["BILLY selalu punya tempat di setiap rumah", ".editorial-billy"],
+      ["Kategori produk", ".best-filters"],
+      ["Produk 11.11", ".best-grid"]
+    ],
+    "/in/lokasi-kami": [
+      ["Lokasi kami", ".store-grid"],
+      ["Jelajahi Acara dan Aktivitas di Toko IKEA", ".store-events"],
+      ["IKEA Pick-up Point", ".pickup"]
+    ],
+    "/in/layanan-pelanggan/faq": [
+      ["Pilih topik", ".faq-topic-nav"],
+      ["Enam kelompok pertanyaan", ".faq-topic"]
+    ],
+    "/in/tentang/perusahaan-ikea": [
+      ["Selamat datang di perusahaan kami", ".about-content"],
+      ["Visi dan ide bisnis", ".about-vision"],
+      ["AREA PERTUMBUHAN", ".growth"],
+      ["IKEA at a glance", ".stats"],
+      ["MANUSIA & PLANET", ".planet"]
+    ]
+  }
+}

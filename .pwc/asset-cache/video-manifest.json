@@ -1,0 +1,44 @@
+[
+  {
+    "file": "public/assets/28092026_ALPTALL_ALL.mp4",
+    "bytes": 19137355,
+    "sha256": "7eee4df406a01567f28581fee6e4b4cae762ee6ef02e1c3e45ba74194103ead4",
+    "source_url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/videos/28092026_ALPTALL_ALL.mp4"
+  },
+  {
+    "file": "public/assets/BestSeller_60349672.mp4",
+    "bytes": 14985965,
+    "sha256": "d5f80297b179f2e25bd6d6cc934c8c2e9d8681cbeb55cdc01f8efed5a6364177",
+    "source_url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/videos/BestSeller_60349672.mp4"
+  },
+  {
+    "file": "public/assets/BestSeller_70304239.mp4",
+    "bytes": 27343161,
+    "sha256": "d864020d606308f75b69bb70ac09c687768bc30ffc83f0b6bab840ab4b92f639",
+    "source_url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/videos/BestSeller_70304239.mp4"
+  },
+  {
+    "file": "public/assets/BestSeller_70362917.mp4",
+    "bytes": 10009613,
+    "sha256": "f60093581d0bc098c258257b98df8bceb94efcb767e1be2cc0f5c60c2dd2f5f2",
+    "source_url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/videos/BestSeller_70362917.mp4"
+  },
+  {
+    "file": "public/assets/BestSeller_79621879.mp4",
+    "bytes": 21840393,
+    "sha256": "40024b519adfab9fd0e6abcbdf5de131f403af5660ce0d1e3a63500e45af1c3b",
+    "source_url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/videos/BestSeller_79621879.mp4"
+  },
+  {
+    "file": "public/assets/BestSeller_89509014.mp4",
+    "bytes": 12243566,
+    "sha256": "84848371431f98ab8f2e46a7b6adf68d71eb586325562021c7497525d0958606",
+    "source_url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/videos/BestSeller_89509014.mp4"
+  },
+  {
+    "file": "public/assets/BestSeller_90355421.mp4",
+    "bytes": 11577152,
+    "sha256": "d84f09b10f9ab7e0a97fcd431e760a6e6853cc12f3203c823335f8c4dc55ab39",
+    "source_url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/videos/BestSeller_90355421.mp4"
+  }
+]

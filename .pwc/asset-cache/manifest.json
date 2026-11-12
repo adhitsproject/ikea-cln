@@ -1,0 +1,842 @@
+[
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/067/1506767_PE1008992_S3.webp",
+    "file": ".pwc\\asset-cache\\1506767_PE1008992_S3.webp",
+    "bytes": 7566
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/290/1029067_PE835651_S3.webp",
+    "file": ".pwc\\asset-cache\\1029067_PE835651_S3.webp",
+    "bytes": 2446
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/312/1531221_PE1015569_S3.webp",
+    "file": ".pwc\\asset-cache\\1531221_PE1015569_S3.webp",
+    "bytes": 690
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/330/1533080_PE1015860_S3.webp",
+    "file": ".pwc\\asset-cache\\1533080_PE1015860_S3.webp",
+    "bytes": 4520
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/462/1546258_PE1019897_S3.webp",
+    "file": ".pwc\\asset-cache\\1546258_PE1019897_S3.webp",
+    "bytes": 20872
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/530/1553079_PE1023495_S3.webp",
+    "file": ".pwc\\asset-cache\\1553079_PE1023495_S3.webp",
+    "bytes": 2098
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/559/0955982_PE804391_S3.webp",
+    "file": ".pwc\\asset-cache\\0955982_PE804391_S3.webp",
+    "bytes": 1818
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/668/1366882_PE957173_S3.webp",
+    "file": ".pwc\\asset-cache\\1366882_PE957173_S3.webp",
+    "bytes": 2790
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/678/0667847_PE714123_S3.webp",
+    "file": ".pwc\\asset-cache\\0667847_PE714123_S3.webp",
+    "bytes": 730
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/746/1074639_PE856242_S3.webp",
+    "file": ".pwc\\asset-cache\\1074639_PE856242_S3.webp",
+    "bytes": 1350
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/773/1377351_PE960901_S3.webp",
+    "file": ".pwc\\asset-cache\\1377351_PE960901_S3.webp",
+    "bytes": 3270
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/903/1590374_PE1039012_S3.webp",
+    "file": ".pwc\\asset-cache\\1590374_PE1039012_S3.webp",
+    "bytes": 3246
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/903/1590375_PE1039013_S3.webp",
+    "file": ".pwc\\asset-cache\\1590375_PE1039013_S3.webp",
+    "bytes": 1314
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/904/1590472_PE1039110_S3.webp",
+    "file": ".pwc\\asset-cache\\1590472_PE1039110_S3.webp",
+    "bytes": 1092
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/commons/home-footer-iphone.png",
+    "file": ".pwc\\asset-cache\\home-footer-iphone.png",
+    "bytes": 245493
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_15414943390.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_15414943390.webp",
+    "bytes": 29512
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_15414943391.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_15414943391.webp",
+    "bytes": 610
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_15414943392.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_15414943392.webp",
+    "bytes": 7536
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_15414943393.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_15414943393.webp",
+    "bytes": 9182
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_15414943394.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_15414943394.webp",
+    "bytes": 6298
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_15414943395.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_15414943395.webp",
+    "bytes": 13148
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1682570308757__0.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1682570308757__0.webp",
+    "bytes": 612
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1720414006605_3_13.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1720414006605_3_13.webp",
+    "bytes": 13040
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1720414006700_3_14.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1720414006700_3_14.webp",
+    "bytes": 10166
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189176_4_8.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1726030189176_4_8.webp",
+    "bytes": 12942
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189271_4_9.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1726030189271_4_9.webp",
+    "bytes": 9940
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189411_4_10.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1726030189411_4_10.webp",
+    "bytes": 9620
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189543_4_11.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1726030189543_4_11.webp",
+    "bytes": 9144
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189658_4_12.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1726030189658_4_12.webp",
+    "bytes": 11256
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030189813_4_13.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1726030189813_4_13.webp",
+    "bytes": 12416
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726030190050_4_15.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1726030190050_4_15.webp",
+    "bytes": 11034
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1726680476155_0_1.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1726680476155_0_1.webp",
+    "bytes": 11146
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1759248709500__0.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1759248709500__0.webp",
+    "bytes": 19868
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764564392202__0.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1764564392202__0.webp",
+    "bytes": 22902
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764669332828__0.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1764669332828__0.webp",
+    "bytes": 19798
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764669332964__1.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1764669332964__1.webp",
+    "bytes": 12336
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764669333053__2.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1764669333053__2.webp",
+    "bytes": 8600
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1764669333130__3.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1764669333130__3.webp",
+    "bytes": 19590
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1768976907740__3.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1768976907740__3.webp",
+    "bytes": 33556
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1772618855139__0.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1772618855139__0.webp",
+    "bytes": 11012
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1775665885575__0.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1775665885575__0.webp",
+    "bytes": 9124
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1775665885716__1.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1775665885716__1.webp",
+    "bytes": 7576
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258656161__0.png?imwidth=160",
+    "file": ".pwc\\asset-cache\\page__en_us_1777258656161__0.png",
+    "bytes": 60632
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258656373__1.png?imwidth=160",
+    "file": ".pwc\\asset-cache\\page__en_us_1777258656373__1.png",
+    "bytes": 208193
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258656462__2.png?imwidth=160",
+    "file": ".pwc\\asset-cache\\page__en_us_1777258656462__2.png",
+    "bytes": 107651
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258656552__3.png?imwidth=160",
+    "file": ".pwc\\asset-cache\\page__en_us_1777258656552__3.png",
+    "bytes": 165541
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258656654__4.png?imwidth=160",
+    "file": ".pwc\\asset-cache\\page__en_us_1777258656654__4.png",
+    "bytes": 95129
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258656748__5.png?imwidth=160",
+    "file": ".pwc\\asset-cache\\page__en_us_1777258656748__5.png",
+    "bytes": 79344
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258656899__6.png?imwidth=160",
+    "file": ".pwc\\asset-cache\\page__en_us_1777258656899__6.png",
+    "bytes": 40756
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258657049__7.png?imwidth=160",
+    "file": ".pwc\\asset-cache\\page__en_us_1777258657049__7.png",
+    "bytes": 47185
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258657135__8.png?imwidth=160",
+    "file": ".pwc\\asset-cache\\page__en_us_1777258657135__8.png",
+    "bytes": 88778
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258657235__9.png?imwidth=160",
+    "file": ".pwc\\asset-cache\\page__en_us_1777258657235__9.png",
+    "bytes": 102552
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258657404__10.png?imwidth=160",
+    "file": ".pwc\\asset-cache\\page__en_us_1777258657404__10.png",
+    "bytes": 32285
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777258657497__11.png?imwidth=160",
+    "file": ".pwc\\asset-cache\\page__en_us_1777258657497__11.png",
+    "bytes": 25432
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1777259219390__0.png?imwidth=160",
+    "file": ".pwc\\asset-cache\\page__en_us_1777259219390__0.png",
+    "bytes": 81629
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1779097866943__5.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1779097866943__5.webp",
+    "bytes": 13030
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1779816263571__5.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1779816263571__5.webp",
+    "bytes": 81596
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1779816264047__6.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1779816264047__6.webp",
+    "bytes": 36230
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1779816264498__7.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1779816264498__7.webp",
+    "bytes": 88302
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1779816265224__8.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1779816265224__8.webp",
+    "bytes": 75906
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1779816265794__9.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1779816265794__9.webp",
+    "bytes": 95992
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1780899655306__0.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1780899655306__0.webp",
+    "bytes": 48740
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1784543471142__0.jpeg",
+    "file": ".pwc\\asset-cache\\page__en_us_1784543471142__0.jpeg",
+    "bytes": 341692
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1784860287086__0.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1784860287086__0.webp",
+    "bytes": 19164
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1785387255334__0.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1785387255334__0.webp",
+    "bytes": 37766
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1785490526693__5.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1785490526693__5.webp",
+    "bytes": 31328
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1785518958738__29.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1785518958738__29.webp",
+    "bytes": 50094
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1785837933454__6.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1785837933454__6.webp",
+    "bytes": 29862
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1785926069574__1.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1785926069574__1.webp",
+    "bytes": 59928
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1785999145711__0.jpeg",
+    "file": ".pwc\\asset-cache\\page__en_us_1785999145711__0.jpeg",
+    "bytes": 368518
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1788403772864__0.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1788403772864__0.webp",
+    "bytes": 28574
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1790828641149__0.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1790828641149__0.webp",
+    "bytes": 138942
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1790830169897__0.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1790830169897__0.webp",
+    "bytes": 122778
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791168320354__0.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1791168320354__0.webp",
+    "bytes": 271704
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791177057879__0.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1791177057879__0.webp",
+    "bytes": 93254
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791177058281__1.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1791177058281__1.webp",
+    "bytes": 85212
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791177058640__2.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1791177058640__2.webp",
+    "bytes": 117016
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791177059011__3.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1791177059011__3.webp",
+    "bytes": 39356
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791177059308__4.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1791177059308__4.webp",
+    "bytes": 110896
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791177059690__5.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1791177059690__5.webp",
+    "bytes": 63956
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791277690599__1.webp?imwidth=160",
+    "file": ".pwc\\asset-cache\\page__en_us_1791277690599__1.webp",
+    "bytes": 14510
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791962189479__0.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1791962189479__0.webp",
+    "bytes": 24884
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791971838454__0.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1791971838454__0.webp",
+    "bytes": 43390
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1791983218324__1.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1791983218324__1.webp",
+    "bytes": 251640
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1792563700820__0.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1792563700820__0.webp",
+    "bytes": 110882
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1792563701488__1.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1792563701488__1.webp",
+    "bytes": 130912
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1792577985951__1.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1792577985951__1.webp",
+    "bytes": 244596
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1792581967513__1.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1792581967513__1.webp",
+    "bytes": 216832
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793084000350__1.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1793084000350__1.webp",
+    "bytes": 363708
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793264241014__6.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1793264241014__6.webp",
+    "bytes": 4132
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793264241135__7.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1793264241135__7.webp",
+    "bytes": 3280
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793264241251__8.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1793264241251__8.webp",
+    "bytes": 2208
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793264241357__9.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1793264241357__9.webp",
+    "bytes": 5208
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793264241458__10.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1793264241458__10.webp",
+    "bytes": 5926
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793264241571__11.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1793264241571__11.webp",
+    "bytes": 6432
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793355967122__1.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1793355967122__1.webp",
+    "bytes": 162150
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793355968648__5.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1793355968648__5.webp",
+    "bytes": 68260
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793355969864__9.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1793355969864__9.webp",
+    "bytes": 65332
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793355970941__13.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1793355970941__13.webp",
+    "bytes": 80132
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793355971908__17.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1793355971908__17.webp",
+    "bytes": 66644
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793593190210__1.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1793593190210__1.webp",
+    "bytes": 188362
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1793876988682__1.webp",
+    "file": ".pwc\\asset-cache\\page__en_us_1793876988682__1.webp",
+    "bytes": 31392
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1719301370463_2_0.webp",
+    "file": ".pwc\\asset-cache\\page__id_id_1719301370463_2_0.webp",
+    "bytes": 12256
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1719301551494_3_0.webp",
+    "file": ".pwc\\asset-cache\\page__id_id_1719301551494_3_0.webp",
+    "bytes": 12222
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1719301551603_4_0.webp",
+    "file": ".pwc\\asset-cache\\page__id_id_1719301551603_4_0.webp",
+    "bytes": 29304
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1719301551635_5_0.webp",
+    "file": ".pwc\\asset-cache\\page__id_id_1719301551635_5_0.webp",
+    "bytes": 25064
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1719301551667_6_0.webp",
+    "file": ".pwc\\asset-cache\\page__id_id_1719301551667_6_0.webp",
+    "bytes": 23320
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1719301551768_7_0.webp",
+    "file": ".pwc\\asset-cache\\page__id_id_1719301551768_7_0.webp",
+    "bytes": 21736
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1719301551815_8_0.webp",
+    "file": ".pwc\\asset-cache\\page__id_id_1719301551815_8_0.webp",
+    "bytes": 24332
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1791429647854__1.gif",
+    "file": ".pwc\\asset-cache\\page__id_id_1791429647854__1.gif",
+    "bytes": 384582
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1791429647981__3.gif",
+    "file": ".pwc\\asset-cache\\page__id_id_1791429647981__3.gif",
+    "bytes": 908049
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1791864051190__1.gif",
+    "file": ".pwc\\asset-cache\\page__id_id_1791864051190__1.gif",
+    "bytes": 775553
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1791864051325__3.gif",
+    "file": ".pwc\\asset-cache\\page__id_id_1791864051325__3.gif",
+    "bytes": 951009
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1793860807920_1_1.webp",
+    "file": ".pwc\\asset-cache\\page__id_id_1793860807920_1_1.webp",
+    "bytes": 113278
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1793860808567_1_3.webp",
+    "file": ".pwc\\asset-cache\\page__id_id_1793860808567_1_3.webp",
+    "bytes": 90650
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1794320854467_0_1.webp",
+    "file": ".pwc\\asset-cache\\page__id_id_1794320854467_0_1.webp",
+    "bytes": 57206
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1794320855143_0_3.webp",
+    "file": ".pwc\\asset-cache\\page__id_id_1794320855143_0_3.webp",
+    "bytes": 36478
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1794320855412_12_1.gif",
+    "file": ".pwc\\asset-cache\\page__id_id_1794320855412_12_1.gif",
+    "bytes": 684692
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__id_id_1794320855508_12_3.gif",
+    "file": ".pwc\\asset-cache\\page__id_id_1794320855508_12_3.gif",
+    "bytes": 79171
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/static_content/payment_partners/maestroFooter.svg",
+    "file": ".pwc\\asset-cache\\maestroFooter.svg",
+    "bytes": 5430
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/static_content/payment_partners/masterCardFooter.svg",
+    "file": ".pwc\\asset-cache\\masterCardFooter.svg",
+    "bytes": 594
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/static_content/payment_partners/visaElectronFooter.svg",
+    "file": ".pwc\\asset-cache\\visaElectronFooter.svg",
+    "bytes": 16168
+  },
+  {
+    "url": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/static_content/payment_partners/visaFooter.svg",
+    "file": ".pwc\\asset-cache\\visaFooter.svg",
+    "bytes": 899
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/015/1501575_PE1007369_S4.jpg",
+    "file": ".pwc\\asset-cache\\1501575_PE1007369_S4.jpg",
+    "bytes": 10731
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/040/1404087_PE969922_S4.jpg",
+    "file": ".pwc\\asset-cache\\1404087_PE969922_S4.jpg",
+    "bytes": 28683
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/072/1407235_PE971444_S4.jpg",
+    "file": ".pwc\\asset-cache\\1407235_PE971444_S4.jpg",
+    "bytes": 64334
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/092/1409204_PE972164_S4.jpg",
+    "file": ".pwc\\asset-cache\\1409204_PE972164_S4.jpg",
+    "bytes": 62648
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/101/0710167_PE727369_S4.jpg",
+    "file": ".pwc\\asset-cache\\0710167_PE727369_S4.jpg",
+    "bytes": 66483
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/106/0710664_PE727695_S4.jpg",
+    "file": ".pwc\\asset-cache\\0710664_PE727695_S4.jpg",
+    "bytes": 27291
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/112/0711230_PE728075_S4.jpg",
+    "file": ".pwc\\asset-cache\\0711230_PE728075_S4.jpg",
+    "bytes": 90180
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/112/0711261_PE728099_S4.jpg",
+    "file": ".pwc\\asset-cache\\0711261_PE728099_S4.jpg",
+    "bytes": 67789
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/122/0712208_PE728639_S4.jpg",
+    "file": ".pwc\\asset-cache\\0712208_PE728639_S4.jpg",
+    "bytes": 8481
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/123/0712360_PE728779_S4.jpg",
+    "file": ".pwc\\asset-cache\\0712360_PE728779_S4.jpg",
+    "bytes": 9027
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/123/0712367_PE728786_S4.jpg",
+    "file": ".pwc\\asset-cache\\0712367_PE728786_S4.jpg",
+    "bytes": 8988
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/132/0713251_PE729361_S4.jpg",
+    "file": ".pwc\\asset-cache\\0713251_PE729361_S4.jpg",
+    "bytes": 25728
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/134/1013471_PE829208_S4.jpg",
+    "file": ".pwc\\asset-cache\\1013471_PE829208_S4.jpg",
+    "bytes": 19922
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/151/1215197_PE911911_S4.jpg",
+    "file": ".pwc\\asset-cache\\1215197_PE911911_S4.jpg",
+    "bytes": 16888
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/152/1215203_PE911915_S4.jpg",
+    "file": ".pwc\\asset-cache\\1215203_PE911915_S4.jpg",
+    "bytes": 20958
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/177/1517759_PE1012437_S4.jpg",
+    "file": ".pwc\\asset-cache\\1517759_PE1012437_S4.jpg",
+    "bytes": 27730
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/178/0417863_PE575616_S4.jpg",
+    "file": ".pwc\\asset-cache\\0417863_PE575616_S4.jpg",
+    "bytes": 6793
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/231/0923162_PE788311_S4.jpg",
+    "file": ".pwc\\asset-cache\\0923162_PE788311_S4.jpg",
+    "bytes": 23041
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/291/1129147_PE876751_S4.jpg",
+    "file": ".pwc\\asset-cache\\1129147_PE876751_S4.jpg",
+    "bytes": 48231
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/376/0637666_PE698477_S4.jpg",
+    "file": ".pwc\\asset-cache\\0637666_PE698477_S4.jpg",
+    "bytes": 8852
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/394/0439474_PE592081_S4.jpg",
+    "file": ".pwc\\asset-cache\\0439474_PE592081_S4.jpg",
+    "bytes": 80540
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/475/1447548_PE989137_S4.jpg",
+    "file": ".pwc\\asset-cache\\1447548_PE989137_S4.jpg",
+    "bytes": 22498
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/513/1451325_PE990684_S4.jpg",
+    "file": ".pwc\\asset-cache\\1451325_PE990684_S4.jpg",
+    "bytes": 11456
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/548/0654805_PE708843_S4.jpg",
+    "file": ".pwc\\asset-cache\\0654805_PE708843_S4.jpg",
+    "bytes": 25663
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/685/1468546_PE996183_S4.jpg",
+    "file": ".pwc\\asset-cache\\1468546_PE996183_S4.jpg",
+    "bytes": 33454
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/693/1469349_PE996496_S4.jpg",
+    "file": ".pwc\\asset-cache\\1469349_PE996496_S4.jpg",
+    "bytes": 21626
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/699/0869950_PE781544_S4.jpg",
+    "file": ".pwc\\asset-cache\\0869950_PE781544_S4.jpg",
+    "bytes": 10402
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/699/0869954_PE781547_S4.jpg",
+    "file": ".pwc\\asset-cache\\0869954_PE781547_S4.jpg",
+    "bytes": 5523
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/725/1172519_PE893862_S4.jpg",
+    "file": ".pwc\\asset-cache\\1172519_PE893862_S4.jpg",
+    "bytes": 25628
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/788/1378867_PE961301_S4.jpg",
+    "file": ".pwc\\asset-cache\\1378867_PE961301_S4.jpg",
+    "bytes": 34352
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/815/1481576_PE1000558_S4.jpg",
+    "file": ".pwc\\asset-cache\\1481576_PE1000558_S4.jpg",
+    "bytes": 40930
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/commons/1727149191_00001584_S4.jpeg",
+    "file": ".pwc\\asset-cache\\1727149191_00001584_S4.jpeg",
+    "bytes": 31722
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/commons/1727149636_00001593_S4.jpeg",
+    "file": ".pwc\\asset-cache\\1727149636_00001593_S4.jpeg",
+    "bytes": 22445
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/commons/1727149719_00001595_S4.jpeg",
+    "file": ".pwc\\asset-cache\\1727149719_00001595_S4.jpeg",
+    "bytes": 22445
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/commons/1727149771_00001597_S4.jpeg",
+    "file": ".pwc\\asset-cache\\1727149771_00001597_S4.jpeg",
+    "bytes": 22445
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/images/commons/1727149838_00001608_S4.jpeg",
+    "file": ".pwc\\asset-cache\\1727149838_00001608_S4.jpeg",
+    "bytes": 22445
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010324_range.png",
+    "file": ".pwc\\asset-cache\\1657010324_range.png",
+    "bytes": 26231
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010347_range.png",
+    "file": ".pwc\\asset-cache\\1657010347_range.png",
+    "bytes": 36565
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010377_range.png",
+    "file": ".pwc\\asset-cache\\1657010377_range.png",
+    "bytes": 33833
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010528_range.png",
+    "file": ".pwc\\asset-cache\\1657010528_range.png",
+    "bytes": 30306
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010575_range.png",
+    "file": ".pwc\\asset-cache\\1657010575_range.png",
+    "bytes": 35654
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010592_range.png",
+    "file": ".pwc\\asset-cache\\1657010592_range.png",
+    "bytes": 27384
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010613_range.png",
+    "file": ".pwc\\asset-cache\\1657010613_range.png",
+    "bytes": 41392
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010628_range.png",
+    "file": ".pwc\\asset-cache\\1657010628_range.png",
+    "bytes": 44176
+  },
+  {
+    "url": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010642_range.png",
+    "file": ".pwc\\asset-cache\\1657010642_range.png",
+    "bytes": 26290
+  }
+]

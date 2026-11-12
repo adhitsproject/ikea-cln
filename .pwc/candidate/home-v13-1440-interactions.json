@@ -1,0 +1,62 @@
+{
+  "path": "blank",
+  "results": [
+    {
+      "name": "menu opens and closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "search opens and accepts input",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "home banner next and previous",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "home category and room tabs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all six favorite videos open and close with local sources",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "ALPTALL campaign video is available",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "product favorite toggles",
+      "pass": null,
+      "detail": "skipped: source Home recommender cards do not show a favorite control"
+    },
+    {
+      "name": "product cart toggles",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "cookie consent dismisses banner",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "runtimeErrors": [],
+  "requested_route": "/in",
+  "viewport": [
+    1440,
+    1000
+  ],
+  "build": "<!doctype html>\n<html lang=\"id\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <meta name=\"theme-color\" content=\"#0058a3\" />\n    <meta name=\"description\" content=\"IKEA Indonesia – inspirasi dan solusi untuk kehidupan sehari-hari di rumah.\" />\n    <title>IKEA Indonesia – Perabot rumah & inspirasi</title>\n    <script type=\"module\" crossorigin src=\"/assets/index-Dtl1L2VY.js\"></script>\n    <link rel=\"stylesheet\" crossorigin href=\"/assets/index-D5y-kjJx.css\">\n  </head>\n  <body><div id=\"root\"></div></body>\n</html>\n",
+  "hashes": {
+    "js": "fd648e6ff6bb5ca8b2296e61fe652811f23d261af7849ff691790fd771cf409a",
+    "css": "8ee33eb513e7a73a10999021b73e6e578b93e7cc2c70ba7b3223da9760e3cca6"
+  },
+  "provenance": "Frozen finalV13 dist with directfragment+drawerfix, routeinput substituted, localmedia mapped preserving authored src; localfiles independently audited"
+}

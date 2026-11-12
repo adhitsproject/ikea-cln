@@ -1,0 +1,32 @@
+{
+  "path": "blank",
+  "results": [
+    {
+      "name": "menu opens and closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "search opens and accepts input",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ answer opens and closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "cookie consent dismisses banner",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "requested_route": "/in/layanan-pelanggan/faq",
+  "build": "<!doctype html>\n<html lang=\"id\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <meta name=\"theme-color\" content=\"#0058a3\" />\n    <meta name=\"description\" content=\"IKEA Indonesia – inspirasi dan solusi untuk kehidupan sehari-hari di rumah.\" />\n    <title>IKEA Indonesia – Perabot rumah & inspirasi</title>\n    <script type=\"module\" crossorigin src=\"/assets/index-HR8ZfrGd.js\"></script>\n    <link rel=\"stylesheet\" crossorigin href=\"/assets/index-BzN6jtTQ.css\">\n  </head>\n  <body><div id=\"root\"></div></body>\n</html>\n",
+  "context": "Cloudflare-rendered production JS/CSS; local asset URLs mapped to their original sources in QA payload only",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schema": 1,
+  "provider": "Cloudflare Browser Rendering Quick Actions",
+  "capture_kind": "original live rendered HTML and full-page PNG",
+  "native_pwc_capture": "blocked: local Playwright subprocess launch denied by Windows sandbox",
+  "source_base": "https://www.ikea.co.id",
+  "desktop_viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "mobile_viewport": {
+    "width": 390,
+    "height": 844,
+    "isMobile": true,
+    "hasTouch": true,
+    "deviceScaleFactor": 1
+  },
+  "pages": [
+    {
+      "name": "home",
+      "url": "https://www.ikea.co.id/in",
+      "status": 200,
+      "desktop": {
+        "html": "home.html",
+        "screenshot": "home-1440.png",
+        "image_size": [
+          1440,
+          11140
+        ]
+      },
+      "mobile": {
+        "html": "home-mobile.html",
+        "screenshot": "home-390.png",
+        "image_size": [
+          390,
+          11939
+        ]
+      },
+      "notes": []
+    },
+    {
+      "name": "best",
+      "url": "https://www.ikea.co.id/in/penawaran/produk-terlaris#all",
+      "status": 200,
+      "desktop": {
+        "html": "best.html",
+        "screenshot": "best-1440.png",
+        "image_size": [
+          1440,
+          4812
+        ]
+      },
+      "mobile": {
+        "html": "best-mobile.html",
+        "screenshot": "best-390.png",
+        "image_size": [
+          390,
+          6159
+        ]
+      },
+      "notes": []
+    },
+    {
+      "name": "stores",
+      "url": "https://www.ikea.co.id/in/lokasi-kami",
+      "status": 200,
+      "desktop": {
+        "html": "stores.html",
+        "screenshot": "stores-1440.png",
+        "image_size": [
+          1440,
+          4054
+        ]
+      },
+      "mobile": {
+        "html": "stores-mobile.html",
+        "screenshot": "stores-390.png",
+        "image_size": [
+          390,
+          6499
+        ]
+      },
+      "notes": []
+    },
+    {
+      "name": "faq",
+      "url": "https://www.ikea.co.id/in/layanan-pelanggan/faq",
+      "status": 200,
+      "desktop": {
+        "html": "faq.html",
+        "screenshot": "faq-1440.png",
+        "image_size": [
+          1440,
+          6053
+        ]
+      },
+      "mobile": {
+        "html": "faq-mobile.html",
+        "screenshot": "faq-390.png",
+        "image_size": [
+          390,
+          7756
+        ]
+      },
+      "notes": []
+    },
+    {
+      "name": "about",
+      "url": "https://www.ikea.co.id/in/tentang/perusahaan-ikea",
+      "status": 200,
+      "desktop": {
+        "html": "about.html",
+        "screenshot": "about-1440.png",
+        "image_size": [
+          1440,
+          3517
+        ]
+      },
+      "mobile": {
+        "html": "about-mobile.html",
+        "screenshot": "about-390.png",
+        "image_size": [
+          1080,
+          5299
+        ]
+      },
+      "notes": [
+        "Source document overflows horizontally at 390px viewport; full-page screenshot width is 1080px"
+      ]
+    }
+  ],
+  "assets": {
+    "cdn_asset_count": 123,
+    "cdn_asset_manifest": "../asset-cache/manifest.json",
+    "gif_count": 3,
+    "font_count": 2,
+    "logo_count": 1
+  },
+  "limitations": [
+    "Default full-page captures preserve original cookie banner state and animated GIF frame at capture time",
+    "Cloudflare capture supplies independent source evidence; it does not assert native pwc extract returned ok:true"
+  ]
+}

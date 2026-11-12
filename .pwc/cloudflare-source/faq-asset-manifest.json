@@ -1,0 +1,199 @@
+{
+  "name": "faq",
+  "styles": [
+    "/webroot/css/main.css?v=1793258014",
+    "/webroot/css/material-icons/material-icons.css?v=1793258014",
+    "/webroot/css/vendor/fontawesome-6.5.2/all.min.css?v=1793258014",
+    "/webroot/css/vendor/swiper-8.2.4/swiper-bundle.min.css?v=1793258014",
+    "/webroot/css/components/ikea-pictograms.css?v=1793258014",
+    "/webroot/css/components/ikea-icons.css?v=1793258014",
+    "/webroot/css/components/ikea-fundament-icons.css?v=1793258014",
+    "/webroot/css/components/ikea-fundament-icons-v2.css?v=1793258014",
+    "/webroot/css/components/buttons.css?v=1793258014",
+    "/webroot/css/components/loading.css?v=1793258014",
+    "/webroot/css/components/sidenav.css?v=1793258014",
+    "/webroot/css/components/modal.css?v=1793258014",
+    "/webroot/css/components/advices.css?v=1793258014",
+    "/webroot/css/components/prices.css?v=1793258014",
+    "/webroot/css/vendor/busyLoad/busyLoad.css?v=1793258014",
+    "/webroot/css/vendor/icheck/icheck_custom.css?v=1793258014",
+    "/webroot/css/vendor/side-drawer-modal-bootstrap/bootstrap-side-modals.css?v=1793258014",
+    "/webroot/css/vendor/cookieconsent.min.css?v=1793258014",
+    "/webroot/css/webview/webviewmodal.css?v=1793258014",
+    "/webroot/css/components/toastr.css?v=1793258014",
+    "/webroot/css/views/socialNetworks.css?v=1793258014",
+    "/webroot/css/layout/style-fix.css?v=1793258014",
+    "/webroot/css/components/shoppingCart-tooltip.css?v=1793258014",
+    "/webroot/css/components/template_item_counter.css?v=1793258014",
+    "/webroot/css/plugins/skapa-components/cards.css?v=1793258014",
+    "/webroot/css/plugins/skapa-components/block.css?v=1793258014",
+    "/webroot/css/polygons/polygons.css?v=1793258014",
+    "/webroot/css/components/listAllRange.css?v=1793258014",
+    "/webroot/css/vendor/slick/slick.css?v=1793258014",
+    "/webroot/css/vendor/slick/slick-theme-custom.css?v=1793258014",
+    "/webroot/css/vendor/slick/sliderMain.css?v=1793258014",
+    "/webroot/css/vendor/jqueryui/jquery-ui-custom.css?v=1793258014",
+    "/webroot/css/views/socialNetworks.css?v=1793258014",
+    "/webroot/css/components/search-algolia/searcher.css?v=1793258014",
+    "/webroot/css/views/homepage.css?v=1793258014",
+    "/webroot/css/views/bestDealsBlock.css?v=1793258014",
+    "/webroot/css/components/productList.css?v=1793258014",
+    "/webroot/css/components/itemInfo.css?v=1793258014",
+    "/webroot/css/components/energyTag.css?v=1793258014",
+    "/webroot/css/components/filters.css?v=1793258014",
+    "/webroot/css/components/customPages.css?v=1793258014",
+    "/webroot/css/components/productListMenu.css?v=1793258014",
+    "/webroot/css/components/template_item_block.css?v=1793258014",
+    "/webroot/css/components/template_item_selector.css?v=1793258014",
+    "/webroot/css/components/template_item_versions.css?v=1793258014",
+    "/webroot/css/components/template_item_counter.css?v=1793258014",
+    "/webroot/css/components/buttons.css?v=1793258014",
+    "/webroot/css/components/pagination.css?v=1793258014",
+    "/webroot/css/plugins/item-stickers/item-stickers.css?v=1793258014",
+    "/webroot/css/components/customerservice.css?v=1793258014",
+    "/webroot/css/components/template_presentation.css?v=1793258014",
+    "https://assets.api.useinsider.com/css/info.min.css",
+    "/webroot/css/layout/headerMain.css?v=1793258014",
+    "/webroot/css/plugins/sidebar-main-menu.css?v=1793258014",
+    "/webroot/css/commons/sectionMenu.css?v=1793258014",
+    "/webroot/css/layout/footerMainLinks.css?v=1793258014",
+    "/webroot/css/layout/footerMainLegal.css?v=1793258014"
+  ],
+  "images": [
+    {
+      "src": "/webroot/img/logos/IKEA_logo.svg?v=1793258014",
+      "alt": "IKEA",
+      "class": [
+        "d-inline-block"
+      ]
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010324_range.webp",
+      "alt": "Kamar tidur",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010347_range.webp",
+      "alt": "Ruang keluarga",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010377_range.webp",
+      "alt": "Dapur",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010528_range.webp",
+      "alt": "Ruang makan",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010575_range.webp",
+      "alt": "Ruang kerja",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010592_range.webp",
+      "alt": "Kamar mandi",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010613_range.webp",
+      "alt": "Dunia anak",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010628_range.webp",
+      "alt": "Luar ruang",
+      "width": "350"
+    },
+    {
+      "src": "https://www.ikea.co.id/dairyfarm/id/range/icons/1657010642_range.webp",
+      "alt": "Laundry",
+      "width": "350"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/logos/IKEA_logo.svg",
+      "alt": "IKEA",
+      "width": "160",
+      "height": "65",
+      "class": [
+        "d-inline-block",
+        "align-center"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/logos/IKEA_logo.svg",
+      "alt": "IKEA",
+      "width": "160",
+      "height": "65",
+      "class": [
+        "d-inline-block"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/commons/home-footer-iphone.png",
+      "alt": "Mobile with App",
+      "width": "170"
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/static_content/payment_partners/visaFooter.svg",
+      "alt": "Visa",
+      "class": [
+        "credit-card--img",
+        "img-fluid",
+        "paymentData"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/static_content/payment_partners/visaElectronFooter.svg",
+      "alt": "Visa electron",
+      "class": [
+        "credit-card--img",
+        "img-fluid",
+        "paymentData"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/static_content/payment_partners/masterCardFooter.svg",
+      "alt": "Master card",
+      "class": [
+        "credit-card--img",
+        "img-fluid",
+        "paymentData"
+      ]
+    },
+    {
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/static_content/payment_partners/maestroFooter.svg",
+      "alt": "Maestro",
+      "class": [
+        "credit-card--img",
+        "img-fluid",
+        "paymentData"
+      ]
+    },
+    {
+      "src": "https://www.facebook.com/tr?id=368630343752849&ev=PageView&noscript=1",
+      "width": "1",
+      "height": "1"
+    },
+    {},
+    {
+      "alt": "search-custom-banner"
+    },
+    {
+      "src": "https://bat.bing.com/action/0?ti=97173127&tm=gtm002&Ver=2&mid=2c05b490-fa1e-487d-b49f-16b93447f6dd&bo=1&sid=9c0b0b90ddb111f19d90a1517ec33b36&vid=9c0b5db0ddb111f19683cbf10dbd1eed&vids=1&msclkid=N&uach=pv%3D10.0.0&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=FAQ%20-%20Pertanyaan%20yang%20Sering%20Diajukan%20%7C%20IKEA%20Indonesia&p=https%3A%2F%2Fwww.ikea.co.id%2Fin%2Flayanan-pelanggan%2Ffaq&r=&lt=1036&evt=pageLoad&sv=2&cdb=AQAQ&rn=102721",
+      "width": "0",
+      "height": "0"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Ccircle cx='12' cy='12' r='12' fill='%23111111' fill-opacity='.12'/%3E%3Cpath d='M8.2 8.2l7.6 7.6M15.8 8.2l-7.6 7.6' stroke='%23111111' stroke-width='1.6' stroke-linecap='round'/%3E%3C/svg%3E",
+      "alt": "Close",
+      "class": [
+        "ins-close-icon"
+      ]
+    }
+  ],
+  "fonts": [],
+  "inline_style_count": 16
+}
