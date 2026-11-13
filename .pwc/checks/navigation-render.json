@@ -1,0 +1,265 @@
+{
+  "checked_at": "2026-11-13T00:46:30.426Z",
+  "method": "Actual React server rendering from source through installed Rolldown. Open drawer branch rendered by injecting its initial React state only in the audit bundle; no browser clicks or visual layout claims.",
+  "open_menu_audit_available": true,
+  "source_sha256": "b06b86c874132de3f1c8c2cbb916b95ae3898ed683ce8fe6e54f1ad7d3260640",
+  "allowed_paths": [
+    "/in",
+    "/in/penawaran/produk-terlaris",
+    "/in/lokasi-kami",
+    "/in/layanan-pelanggan/faq",
+    "/in/tentang/perusahaan-ikea"
+  ],
+  "pages": [
+    {
+      "path": "/in",
+      "menu_open": false,
+      "anchor_count": 24,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": false
+    },
+    {
+      "path": "/in/penawaran/produk-terlaris",
+      "menu_open": false,
+      "anchor_count": 19,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": false
+    },
+    {
+      "path": "/in/lokasi-kami",
+      "menu_open": false,
+      "anchor_count": 20,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": false
+    },
+    {
+      "path": "/in/layanan-pelanggan/faq",
+      "menu_open": false,
+      "anchor_count": 25,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": false
+    },
+    {
+      "path": "/in/tentang/perusahaan-ikea",
+      "menu_open": false,
+      "anchor_count": 19,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": false
+    },
+    {
+      "path": "/in/",
+      "menu_open": false,
+      "anchor_count": 24,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": false
+    },
+    {
+      "path": "/in/penawaran/produk-terlaris/",
+      "menu_open": false,
+      "anchor_count": 19,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": false
+    },
+    {
+      "path": "/in/lokasi-kami/",
+      "menu_open": false,
+      "anchor_count": 20,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": false
+    },
+    {
+      "path": "/in/layanan-pelanggan/faq/",
+      "menu_open": false,
+      "anchor_count": 25,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": false
+    },
+    {
+      "path": "/in/tentang/perusahaan-ikea/",
+      "menu_open": false,
+      "anchor_count": 19,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": false
+    },
+    {
+      "path": "/",
+      "menu_open": false,
+      "anchor_count": 24,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": false
+    },
+    {
+      "path": "/in/makanan-ikea",
+      "menu_open": false,
+      "anchor_count": 14,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": true
+    },
+    {
+      "path": "/not-created/faq",
+      "menu_open": false,
+      "anchor_count": 14,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": true
+    },
+    {
+      "path": "/in/penawaran/produk-terlaris-extra",
+      "menu_open": false,
+      "anchor_count": 14,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": true
+    },
+    {
+      "path": "/in",
+      "menu_open": true,
+      "anchor_count": 30,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": false
+    },
+    {
+      "path": "/in/penawaran/produk-terlaris",
+      "menu_open": true,
+      "anchor_count": 25,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": false
+    },
+    {
+      "path": "/in/lokasi-kami",
+      "menu_open": true,
+      "anchor_count": 26,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": false
+    },
+    {
+      "path": "/in/layanan-pelanggan/faq",
+      "menu_open": true,
+      "anchor_count": 31,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": false
+    },
+    {
+      "path": "/in/tentang/perusahaan-ikea",
+      "menu_open": true,
+      "anchor_count": 25,
+      "destinations": [
+        "/in/lokasi-kami",
+        "/in/layanan-pelanggan/faq",
+        "/in/tentang/perusahaan-ikea",
+        "/in",
+        "/in/penawaran/produk-terlaris"
+      ],
+      "not_found": false
+    }
+  ],
+  "findings": [],
+  "pass": true,
+  "browser_limitation": "Native Playwright still fails before launch with Windows async subprocess pipe WinError 5; dynamic menu/FAQ/pickup links require separate source review."
+}

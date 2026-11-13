@@ -1,0 +1,30 @@
+{
+  "checked_at": "2026-11-13T00:47:03.075Z",
+  "build": {
+    "command": "npm run build",
+    "exit_code": 0,
+    "duration_seconds": 11.48,
+    "modules_transformed": 1571
+  },
+  "diff_check": {
+    "command": "git diff --check",
+    "exit_code": 0
+  },
+  "source_sha256": "b06b86c874132de3f1c8c2cbb916b95ae3898ed683ce8fe6e54f1ad7d3260640",
+  "bundles": {
+    "/assets/index-Csgz2dN-.js": "62ee389dc15e2ba750d05c86ae96626ee382dcb7e95dc1ae9e5ef37f2c8c66b8",
+    "/assets/index-Dz3LzdA6.css": "c78e7f02f4f5acfbfe725e8a69bdb870df7664ce4e6e1ddde3c5ba3afcab77c9"
+  },
+  "navigation": {
+    "command": "node .pwc/verify_navigation.mjs",
+    "exit_code": 0,
+    "cases": 19,
+    "findings": 0,
+    "open_menu_audit_available": true
+  },
+  "browser": {
+    "status": "unavailable",
+    "observed_error": "PermissionError: [WinError 5] Access is denied while creating Windows asyncio subprocess pipe before Playwright launch",
+    "scope": "No claim of visual or browser click verification for Nov13 navigation cleanup"
+  }
+}
